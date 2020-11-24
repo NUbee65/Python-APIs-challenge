@@ -1,0 +1,663 @@
+User Acct,Tweet ID,Tweet Time,Favorite Count,Tweet Text,Compound SA,Positive SA,Neutral SA,Negative SA
+bbcnews,BBC News (UK),Tue Nov 24 02:30:41 +0000 2020,4,Apple's security chief charged with bribery https://t.co/lbtjVoqK4d,0.1531,0.261,0.543,0.196
+bbcnews,BBC News (UK),Tue Nov 24 02:28:26 +0000 2020,32,"Doctor Who, Call the Midwife and Mrs Brown on BBC Christmas TV line-up https://t.co/3sqE5eFhtC",0.0,0.0,1.0,0.0
+bbcnews,BBC News (UK),Tue Nov 24 02:05:57 +0000 2020,19,Wolves 1-1 Southampton: Theo Walcott's first goal since rejoining Saints earns draw https://t.co/5KHw1ZzcFW,0.0,0.0,1.0,0.0
+bbcnews,BBC News (UK),Tue Nov 24 02:05:57 +0000 2020,13,Burnley 1-0 Crystal Palace: Chris Wood goal gives Burnley first league win of season https://t.co/wqwKyCkvnW,0.5859,0.213,0.787,0.0
+bbcnews,BBC News (UK),Tue Nov 24 02:05:57 +0000 2020,12,Stuart Hogg admits to 'schoolboy error' but praises Scotland after France loss https://t.co/MMYWucGb1V,0.34,0.31,0.45,0.24
+bbcnews,BBC News (UK),Tue Nov 24 01:54:35 +0000 2020,55,Covid-19: Arrivals in England to be able to cut quarantine if they pay for test https://t.co/kSopjt5tA1,-0.3612,0.0,0.8,0.2
+bbcnews,BBC News (UK),Tue Nov 24 01:05:11 +0000 2020,47,Newspaper headlines: 'Tis the season to be jolly careful' and Oxford vaccine news https://t.co/9VYToAnDC6,0.5994,0.29,0.71,0.0
+bbcnews,BBC News (UK),Mon Nov 23 22:35:33 +0000 2020,24,"#BBCNewscast answers #BBCYourQuestions on today’s coronavirus developments
+ 
+💉 When could the Oxford University vac… https://t.co/FFusoWihGg",0.0,0.0,1.0,0.0
+bbcnews,BBC News (UK),Mon Nov 23 22:32:07 +0000 2020,77,Covid-19: Boris Johnson faces political test over new tier system https://t.co/LHEqhpzUGI,0.0,0.0,1.0,0.0
+bbcnews,BBC News (UK),Mon Nov 23 22:05:02 +0000 2020,2297,Michigan votes to certify Biden's win over Trump https://t.co/fsYoqIx0yb,0.5859,0.322,0.678,0.0
+bbcnews,BBC News (UK),Mon Nov 23 21:33:31 +0000 2020,117,Chinese spacecraft sets off on Moon sample quest https://t.co/UGoSnwn9nb,0.0,0.0,1.0,0.0
+bbcnews,BBC News (UK),Mon Nov 23 21:29:11 +0000 2020,130,Grenfell Tower: Cladding firm 'stretched the truth' on fire safety https://t.co/mb5UPmPpn1,0.4019,0.329,0.516,0.155
+bbcnews,BBC News (UK),Mon Nov 23 21:02:08 +0000 2020,135,Labour chief whip demands apology from Jeremy Corbyn https://t.co/BIlfNRwSpq,0.0516,0.13,0.87,0.0
+bbcnews,BBC News (UK),Mon Nov 23 20:28:15 +0000 2020,47,Snapchat Spotlight to pay users $1m a day for viral hits https://t.co/Z1yzXwCiJ0,-0.1027,0.0,0.887,0.113
+bbcnews,BBC News (UK),Mon Nov 23 19:46:04 +0000 2020,138,"“The Christmas holiday period, the loosenings around that… we all know that that is going to come at a risk”
+
+Prof… https://t.co/Fdm7jRCxy0",0.4019,0.114,0.886,0.0
+bbcnews,BBC News (UK),Mon Nov 23 19:36:36 +0000 2020,342,"""There will be no compulsory vaccination, that's not the way we do things in this country""
+
+But, Prime Minister Bor… https://t.co/XxcR5WijGx",-0.1531,0.0,0.926,0.074
+bbcnews,BBC News (UK),Mon Nov 23 19:35:41 +0000 2020,69,"How can the roll-out of the vaccine happen smoothly? asks @BBCFergusWalsh
+
+Boris Johnson says there are ""immense"" l… https://t.co/wGTJw8Las8",0.0,0.0,1.0,0.0
+bbcnews,BBC News (UK),Mon Nov 23 19:31:22 +0000 2020,92,"“Science and also the seasons, when we get through to spring, will help to de-risk this infection”
+
+Prof Chris Whit… https://t.co/JrI6V70fij",0.4019,0.119,0.881,0.0
+bbcnews,BBC News (UK),Mon Nov 23 19:24:15 +0000 2020,91,“Keeping young people in education wherever we can; that’s been at the heart of what we’ve been trying to do over t… https://t.co/3B0Dz0ThBV,0.6369,0.16,0.84,0.0
+bbcnews,BBC News (UK),Mon Nov 23 19:22:11 +0000 2020,149,"""'Tis the season to be jolly, but it is also the season to be jolly careful""
+
+Prime Minister Boris Johnson says Chr… https://t.co/oyHWDii9Xz",0.8176,0.298,0.702,0.0
+cbsnews,CBS News,Tue Nov 24 02:19:36 +0000 2020,100,Feinstein will not seek Senate Judiciary Committee leadership https://t.co/6Vv2tL8XXU,0.0,0.0,1.0,0.0
+cbsnews,CBS News,Tue Nov 24 01:59:56 +0000 2020,41,"Texas and Louisiana can cut Medicaid funding for Planned Parenthood, federal appeals court rules https://t.co/S9VWI6WSYl",-0.2732,0.0,0.87,0.13
+cbsnews,CBS News,Tue Nov 24 01:43:43 +0000 2020,0,"RT @CBSThisMorning: Who is your frontline hero?
+
+We want to share their stories, whether they are doctors, teachers, or grocery store emplo…",0.7269,0.272,0.728,0.0
+cbsnews,CBS News,Tue Nov 24 01:39:43 +0000 2020,93,Transgender inmate sues Georgia prison officials over alleged assaults https://t.co/YpDBvWYp6g,-0.7783,0.0,0.541,0.459
+cbsnews,CBS News,Tue Nov 24 01:30:06 +0000 2020,138,The General Services Administration has told President-elect Joe Biden they're ready to start the formal transition… https://t.co/UOWvgkoD0Z,0.3612,0.135,0.865,0.0
+cbsnews,CBS News,Tue Nov 24 01:19:36 +0000 2020,115,Millions of Americans traveling for Thanksgiving despite coronavirus warnings https://t.co/qh2RudGiNx,0.2235,0.173,0.827,0.0
+cbsnews,CBS News,Tue Nov 24 01:00:01 +0000 2020,60,South Dakota gripped by coronavirus pandemic as governor resists mandate https://t.co/P0SnwwdmfI,0.0,0.0,1.0,0.0
+cbsnews,CBS News,Tue Nov 24 00:56:15 +0000 2020,0,RT @CBSEveningNews: LEGAL BATTLE LOSSES: Several key states are set to certify their election results in the face of furious -- but so far…,-0.6269,0.057,0.705,0.237
+cbsnews,CBS News,Tue Nov 24 00:40:00 +0000 2020,43,GM to recall 6 million vehicles in U.S. to replace Takata air bags https://t.co/zWEvAzIddP,0.0,0.0,1.0,0.0
+cbsnews,CBS News,Tue Nov 24 00:19:47 +0000 2020,78,"What is the GSA, and what role does it play in the presidential transition? https://t.co/wESBp5EMlz",0.34,0.146,0.854,0.0
+cbsnews,CBS News,Tue Nov 24 00:11:35 +0000 2020,107,"Will Biden tap a U.N. ambassador to ""reclaim America's leading position""? https://t.co/aBXk7E0EpM",0.0,0.0,1.0,0.0
+cbsnews,CBS News,Tue Nov 24 00:01:48 +0000 2020,0,"RT @CBSEveningNews: TEXT OF THANKS: A mistaken text brought together a grandma and a 17-year-old back in 2016, and they’ve kept the traditi…",0.2808,0.134,0.774,0.092
+cbsnews,CBS News,Tue Nov 24 00:01:44 +0000 2020,0,"RT @CBSEveningNews: Jeopardy! says it will resume production next Monday with interim guest hosts following the death of Alex Trebek.
+
+All-…",-0.807,0.0,0.723,0.277
+cbsnews,CBS News,Tue Nov 24 00:01:40 +0000 2020,0,RT @CBSEveningNews: GOVERNMENT ORDERED RECALL: A federal recall has been issued for nearly six million General Motors SUVs and pick up truc…,0.0,0.0,1.0,0.0
+cbsnews,CBS News,Tue Nov 24 00:01:36 +0000 2020,0,RT @CBSEveningNews: SURGE IN THE HEARTLAND: South Dakota has reported more COVID-19 deaths per capita over the last week than anywhere else…,0.0,0.0,1.0,0.0
+cbsnews,CBS News,Tue Nov 24 00:01:33 +0000 2020,0,"RT @CBSEveningNews: After nine months of playing defense, the staff at Miami’s Jackson Memorial Hospital is preparing to be among the first…",0.3182,0.142,0.858,0.0
+cbsnews,CBS News,Tue Nov 24 00:01:28 +0000 2020,0,"RT @CBSEveningNews: RACING TO A CURE: The Oxford and AstraZeneca vaccine is said to be up to 90% effective in combating COVID-19.
+
+Plus, cl…",0.4767,0.119,0.881,0.0
+cbsnews,CBS News,Tue Nov 24 00:01:24 +0000 2020,0,"RT @CBSEveningNews: HISTORIC PICKS: President-elect Joe Biden is rolling out his national security team.
+
+The picks are notable for their d…",0.34,0.107,0.893,0.0
+cbsnews,CBS News,Tue Nov 24 00:01:20 +0000 2020,0,"RT @CBSEveningNews: President-elect Biden will now have access to the agencies, information and funding needed for a presidential transitio…",0.0,0.0,1.0,0.0
+cbsnews,CBS News,Tue Nov 24 00:01:16 +0000 2020,0,"RT @CBSEveningNews: HOLIDAY TRAVEL SURGE: Americans are ignoring the CDC's calls not to travel for Thanksgiving.
+
+Health experts warn that…",0.0857,0.14,0.693,0.167
+cnn,CNN,Tue Nov 24 02:29:12 +0000 2020,89,"Officers from the Utah Department of Public Safety's Aero Bureau were flying by helicopter last Wednesday, helping… https://t.co/j05XVkg8Cg",0.0,0.0,1.0,0.0
+cnn,CNN,Tue Nov 24 02:18:25 +0000 2020,308,The campaign of a spoiler candidate appeared to help a Republican unseat the Democratic incumbent in a Florida Sena… https://t.co/pbcZkjxoKG,0.4019,0.124,0.876,0.0
+cnn,CNN,Tue Nov 24 02:10:06 +0000 2020,343,Americans need to be prepared for the possibility that they may feel a little unwell after they get a coronavirus v… https://t.co/ODVHgSuxIE,0.2263,0.083,0.917,0.0
+cnn,CNN,Tue Nov 24 02:01:09 +0000 2020,353,Thailand's ancient city of Lobpuri is well known for its rambunctious macaques. This man tried to soothe a group of… https://t.co/HAhsbsxiPg,0.5574,0.195,0.805,0.0
+cnn,CNN,Tue Nov 24 01:51:07 +0000 2020,195,Vaccine experts — including those who serve on advisory committees for the US Food and Drug Administration and the… https://t.co/eVnb6J3XI8,0.0,0.0,1.0,0.0
+cnn,CNN,Tue Nov 24 01:39:08 +0000 2020,815,Former Obama admin. official Alejandro Mayorkas was tapped to lead the Department of Homeland Security by President… https://t.co/4KOkhH4pJO,0.34,0.124,0.876,0.0
+cnn,CNN,Tue Nov 24 01:27:07 +0000 2020,2632,"President-elect Joe Biden appointed John Kerry as his special presidential envoy for climate, underscoring his comm… https://t.co/qORQ0CYGNB",0.4019,0.144,0.856,0.0
+cnn,CNN,Tue Nov 24 01:23:57 +0000 2020,734,"Antony Blinken, President-elect Joe Biden's pick for secretary of state, has worked with the former VP for so long… https://t.co/vzDvuWoS3u",0.0,0.0,1.0,0.0
+cnn,CNN,Tue Nov 24 01:22:22 +0000 2020,1696,A growing group of Republican senators has signaled support for allowing President-elect Joe Biden to start the tra… https://t.co/PUaHQqIF4j,0.5267,0.206,0.794,0.0
+cnn,CNN,Tue Nov 24 00:51:06 +0000 2020,346,"Step aside ""murder hornets,"" sightings of an invasive species of a snake-like worm are being reported in Georgia https://t.co/BGFSDbDiFi",-0.6908,0.0,0.793,0.207
+cnn,CNN,Tue Nov 24 00:47:52 +0000 2020,1569,Pennsylvania's Supreme Court has rejected the Trump campaign's effort to block the counting of absentee ballots wit… https://t.co/LbTJvR1cZl,-0.5719,0.139,0.541,0.32
+cnn,CNN,Tue Nov 24 00:45:14 +0000 2020,299,"Bad Bunny performing at the American Music Awards had been eagerly anticipated, but he had to cancel after he teste… https://t.co/QPKQUvTIA0",-0.2382,0.149,0.665,0.186
+cnn,CNN,Tue Nov 24 00:31:32 +0000 2020,203,"Carbon emissions fell this spring, but the drop amounted to little more than ""just a tiny blip on the long-term gra… https://t.co/LxtRVBZbBK",-0.3919,0.0,0.888,0.112
+cnn,CNN,Tue Nov 24 00:24:44 +0000 2020,4199,"""Jeopardy!"" has announced that Ken Jennings, who holds the all-time record for the most consecutive games won at 74… https://t.co/xdldiZuzzJ",0.2859,0.168,0.71,0.122
+cnn,CNN,Tue Nov 24 00:19:50 +0000 2020,286,Apple's global head of security and two members of the Santa Clara County Sheriff's office have been indicted by a… https://t.co/zpbepx8yhC,0.34,0.107,0.893,0.0
+cnn,CNN,Tue Nov 24 00:13:27 +0000 2020,684,"In a letter to environmental groups, General Motors announced it was withdrawing its support from Trump administrat… https://t.co/FaXqDunDtu",0.4019,0.137,0.863,0.0
+cnn,CNN,Tue Nov 24 00:04:29 +0000 2020,168,A North Atlantic right whale calf was discovered dead on the shore of a barrier island off North Carolina on Friday… https://t.co/wIKXhtYwNZ,-0.7003,0.0,0.775,0.225
+cnn,CNN,Mon Nov 23 23:47:23 +0000 2020,1319,Read the letter: https://t.co/QiIAktOQpp,0.0,0.0,1.0,0.0
+cnn,CNN,Mon Nov 23 23:22:12 +0000 2020,16777,JUST IN: The Trump administration has informed President-elect Joe Biden that they are ready to begin the formal tr… https://t.co/NBeFQRV752,0.3612,0.116,0.884,0.0
+cnn,CNN,Mon Nov 23 23:07:45 +0000 2020,227,Here are a few winter romcoms to take our minds off real life https://t.co/Dxx8yW96ZM,0.0,0.0,1.0,0.0
+foxnews,Fox News,Tue Nov 24 02:23:00 +0000 2020,162,Rand Paul says DC US Attorney won't investigate RNC protestors who confronted him at RNC https://t.co/cFdPZicmJp,-0.2023,0.0,0.893,0.107
+foxnews,Fox News,Tue Nov 24 02:11:29 +0000 2020,356,WATCH: NY business owners demand warrant when health inspector barges inside over Cuomo COVID restriction https://t.co/xNvp2wgxx2,-0.3818,0.0,0.795,0.205
+foxnews,Fox News,Tue Nov 24 01:08:10 +0000 2020,470,'Jeopardy!' taps Ken Jennings as first guest host for show's restart https://t.co/BWzMXwayzD,-0.5255,0.0,0.764,0.236
+foxnews,Fox News,Tue Nov 24 01:04:07 +0000 2020,236,Feinstein won't seek top Judiciary Committee spot after complaints from progressives https://t.co/2RJTrZddC6,-0.5093,0.0,0.7,0.3
+foxnews,Fox News,Mon Nov 23 23:46:20 +0000 2020,1289,GSA chief informs President-elect Biden that formal transition process can begin https://t.co/XgJYp1pbLC,0.0,0.0,1.0,0.0
+foxnews,Fox News,Mon Nov 23 21:45:41 +0000 2020,629,Pa. Supreme Court rejects Trump challenge to absentee ballots in Allegheny County https://t.co/6xm9o2syHk,-0.1027,0.255,0.469,0.276
+foxnews,Fox News,Mon Nov 23 21:43:40 +0000 2020,888,Mattis says he hopes Joe Biden takes 'America First' out of national security strategy https://t.co/uqOtE3T5sQ,0.6369,0.286,0.714,0.0
+foxnews,Fox News,Mon Nov 23 21:42:05 +0000 2020,65,"Get your copy - pre-order today: Pete Hegseth’s ""Modern Warriors: Real Stories from Real Heroes,"" available in book… https://t.co/VjwF4GuUqN",0.5106,0.155,0.845,0.0
+foxnews,Fox News,Mon Nov 23 20:34:43 +0000 2020,411,Biden to tap former Fed Chair Janet Yellen as Treasury secretary: report https://t.co/tXapuCSNpz,0.2023,0.13,0.87,0.0
+foxnews,Fox News,Mon Nov 23 19:36:50 +0000 2020,189,"NYC police upping patrol amid uptick in 'subway shove' incidents, shootings https://t.co/ogKy5BpAYH",0.0,0.0,1.0,0.0
+foxnews,Fox News,Mon Nov 23 19:14:01 +0000 2020,214,"NYC mayor sounds alarm after multiple people pushed onto subway train tracks
+https://t.co/VRCGGflYO8",-0.34,0.0,0.833,0.167
+foxnews,Fox News,Mon Nov 23 18:59:14 +0000 2020,722,"'Deserves to be on trial': Critics react to New York Gov. Cuomo winning Emmy award for COVID leadership
+https://t.co/mNg8nCpgzC",0.6908,0.275,0.637,0.088
+foxnews,Fox News,Mon Nov 23 17:59:42 +0000 2020,1412,"Trump's election lawsuit leads to 3rd Circuit grant for expedited review
+https://t.co/KODMmmrNxa",0.1531,0.174,0.694,0.132
+foxnews,Fox News,Mon Nov 23 17:35:38 +0000 2020,561,"President-elect Biden announced who he intends to nominate for key Cabinet positions, including ex-sec. of state Jo… https://t.co/oHQfSoreUi",0.0,0.0,1.0,0.0
+foxnews,Fox News,Mon Nov 23 17:15:55 +0000 2020,193,"MSNBC panel labels Thanksgiving a cannibalistic 'Colonizer Christmas'
+https://t.co/e9Sx4n7C8t",0.0,0.0,1.0,0.0
+foxnews,Fox News,Mon Nov 23 16:31:30 +0000 2020,185,"Coast Guard searches for 4-member crew of fishing boat that sank off Massachusetts coast
+https://t.co/f49SQgi5mS",0.0,0.0,1.0,0.0
+foxnews,Fox News,Mon Nov 23 16:05:43 +0000 2020,442,"NJ Gov. Murphy accosted over coronavirus restrictions, masks while dining with family
+https://t.co/vouENt6ACY",0.0,0.0,1.0,0.0
+foxnews,Fox News,Mon Nov 23 15:53:53 +0000 2020,0,RT @FoxBusiness: Most expensive video game ever: Rare copy of 'Super Mario 3' sold at auction https://t.co/Bcj6vLxEsT,0.5994,0.196,0.804,0.0
+foxnews,Fox News,Mon Nov 23 15:35:59 +0000 2020,215,"Biden's expected secretary of state pick criticized over Iraq War, consulting work
+https://t.co/HV3x6nxbkq",-0.7506,0.0,0.632,0.368
+foxnews,Fox News,Mon Nov 23 14:51:40 +0000 2020,4490,"Georgia GOP Senate candidates back Trump's call for recount, more signature matching
+https://t.co/A8qUIHZM35",0.0,0.0,1.0,0.0
+nytimes,The New York Times,Tue Nov 24 02:20:07 +0000 2020,374,"“Gilmore Girls” fans can spend some time with their favorite mother-daughter duo this week. The 2016 revival, “Gilm… https://t.co/TzFnMdWx43",0.4588,0.143,0.857,0.0
+nytimes,The New York Times,Tue Nov 24 02:00:07 +0000 2020,0,RT @shearm: TRANSITION -- The Trump admin finally relented and will allow the transition to begin after a day of critical losses in the att…,-0.4767,0.066,0.761,0.173
+nytimes,The New York Times,Tue Nov 24 01:40:03 +0000 2020,282,Sohla El-Waylly is here for all the stuffing leftovers. https://t.co/98fC1jki3C,0.0,0.0,1.0,0.0
+nytimes,The New York Times,Tue Nov 24 01:20:05 +0000 2020,0,RT @FrancescaDonner: #MuslimWomenAreEverything breaks apart the tired old tropes about Muslim women. It was born out of a “frustration that…,-0.4404,0.0,0.868,0.132
+nytimes,The New York Times,Tue Nov 24 01:00:18 +0000 2020,964,How will Covid-19 vaccines get to billions of people in the developing world? Bill Gates thinks he and his foundati… https://t.co/xvJ7pEUcxD,0.0,0.0,1.0,0.0
+nytimes,The New York Times,Tue Nov 24 00:40:04 +0000 2020,203,Ashley Diamond became a voice for incarcerated transgender people after she sued the state of Georgia to change its… https://t.co/NmANLJWpk3,0.34,0.112,0.888,0.0
+nytimes,The New York Times,Tue Nov 24 00:20:04 +0000 2020,0,"RT @mattfleg: What, exactly, was he holding onto? Why fight so hard, and put the country through so much, to keep a position he has often n…",-0.5371,0.0,0.848,0.152
+nytimes,The New York Times,Tue Nov 24 00:00:06 +0000 2020,1031,"""Jeopardy!"" is not yet ready to name Alex Trebek's replacement. For now, Ken Jennings and other short-term hosts wi… https://t.co/yOwhRmWxHX",-0.6707,0.0,0.766,0.234
+nytimes,The New York Times,Mon Nov 23 23:45:05 +0000 2020,183,Political leaders and public health officials have recently blamed small gatherings for the rise in coronavirus cas… https://t.co/CRzUehliaD,-0.4767,0.0,0.846,0.154
+nytimes,The New York Times,Mon Nov 23 23:34:12 +0000 2020,7709,Breaking News: President Trump authorized his government to begin the transition to President-elect Joe Biden’s adm… https://t.co/aTEVv3JRnw,0.0,0.0,1.0,0.0
+nytimes,The New York Times,Mon Nov 23 23:20:02 +0000 2020,0,RT @aoscott: In which I do not quite argue (but sort of imply) that Tyler Perry would have the best choice to direct Hillbilly Elegy https:…,0.8139,0.236,0.764,0.0
+nytimes,The New York Times,Mon Nov 23 23:00:14 +0000 2020,84,"Doctors have seen a spike in the number of women arriving in emergency rooms with serious complications, or already… https://t.co/RRBz6WJCrF",-0.3818,0.059,0.766,0.176
+nytimes,The New York Times,Mon Nov 23 23:00:13 +0000 2020,76,"Griselda found a midwife to deliver her daughter at home. Because she hopes to legalize one day, she has avoided go… https://t.co/BG0oq6Zn4V",0.1027,0.111,0.794,0.095
+nytimes,The New York Times,Mon Nov 23 23:00:13 +0000 2020,13,"Then, Britani landed in the ER for the second time, with a more severe infection. The family decided her only optio… https://t.co/45WCwTmmLw",-0.4391,0.0,0.879,0.121
+nytimes,The New York Times,Mon Nov 23 23:00:12 +0000 2020,18,"Late one night in July 2019, Britani started bleeding. An ER doctor said she had an infection that could cause her… https://t.co/wwWREbC7Jt",0.0,0.0,1.0,0.0
+nytimes,The New York Times,Mon Nov 23 23:00:11 +0000 2020,277,"Undocumented women, fearful of the Trump administration’s immigration-enforcement policies, are risking their healt… https://t.co/iZho0GJNG0",-0.6705,0.0,0.686,0.314
+nytimes,The New York Times,Mon Nov 23 22:49:30 +0000 2020,648,"Here's who to expect in Joe Biden's cabinet, so far: https://t.co/4r2sVxULVB",0.0,0.0,1.0,0.0
+nytimes,The New York Times,Mon Nov 23 22:45:09 +0000 2020,468,"AstraZeneca and the University of Oxford announced that their inexpensive, easy-to-produce coronavirus vaccine appe… https://t.co/Qb8OYYQ8kf",0.0,0.0,1.0,0.0
+nytimes,The New York Times,Mon Nov 23 22:30:11 +0000 2020,105,The Oscar-nominated cinematographer who shot “A Star is Born” says someone drugged him when he collapsed at a film… https://t.co/OzJZsghCen,-0.2732,0.0,0.9,0.1
+nytimes,The New York Times,Mon Nov 23 22:20:04 +0000 2020,86,"Update: The police in San Jose, California, said they had arrested a suspect in connection with a stabbing attack a… https://t.co/ePRlZKm3fj",-0.8126,0.0,0.682,0.318
+bbcnews,BBC News (UK),Tue Nov 24 02:30:41 +0000 2020,4,Apple's security chief charged with bribery https://t.co/lbtjVoqK4d,0.1531,0.261,0.543,0.196
+bbcnews,BBC News (UK),Tue Nov 24 02:28:26 +0000 2020,32,"Doctor Who, Call the Midwife and Mrs Brown on BBC Christmas TV line-up https://t.co/3sqE5eFhtC",0.0,0.0,1.0,0.0
+bbcnews,BBC News (UK),Tue Nov 24 02:05:57 +0000 2020,19,Wolves 1-1 Southampton: Theo Walcott's first goal since rejoining Saints earns draw https://t.co/5KHw1ZzcFW,0.0,0.0,1.0,0.0
+bbcnews,BBC News (UK),Tue Nov 24 02:05:57 +0000 2020,13,Burnley 1-0 Crystal Palace: Chris Wood goal gives Burnley first league win of season https://t.co/wqwKyCkvnW,0.5859,0.213,0.787,0.0
+bbcnews,BBC News (UK),Tue Nov 24 02:05:57 +0000 2020,12,Stuart Hogg admits to 'schoolboy error' but praises Scotland after France loss https://t.co/MMYWucGb1V,0.34,0.31,0.45,0.24
+bbcnews,BBC News (UK),Tue Nov 24 01:54:35 +0000 2020,55,Covid-19: Arrivals in England to be able to cut quarantine if they pay for test https://t.co/kSopjt5tA1,-0.3612,0.0,0.8,0.2
+bbcnews,BBC News (UK),Tue Nov 24 01:05:11 +0000 2020,47,Newspaper headlines: 'Tis the season to be jolly careful' and Oxford vaccine news https://t.co/9VYToAnDC6,0.5994,0.29,0.71,0.0
+bbcnews,BBC News (UK),Mon Nov 23 22:35:33 +0000 2020,24,"#BBCNewscast answers #BBCYourQuestions on today’s coronavirus developments
+ 
+💉 When could the Oxford University vac… https://t.co/FFusoWihGg",0.0,0.0,1.0,0.0
+bbcnews,BBC News (UK),Mon Nov 23 22:32:07 +0000 2020,77,Covid-19: Boris Johnson faces political test over new tier system https://t.co/LHEqhpzUGI,0.0,0.0,1.0,0.0
+bbcnews,BBC News (UK),Mon Nov 23 22:05:02 +0000 2020,2297,Michigan votes to certify Biden's win over Trump https://t.co/fsYoqIx0yb,0.5859,0.322,0.678,0.0
+bbcnews,BBC News (UK),Mon Nov 23 21:33:31 +0000 2020,117,Chinese spacecraft sets off on Moon sample quest https://t.co/UGoSnwn9nb,0.0,0.0,1.0,0.0
+bbcnews,BBC News (UK),Mon Nov 23 21:29:11 +0000 2020,130,Grenfell Tower: Cladding firm 'stretched the truth' on fire safety https://t.co/mb5UPmPpn1,0.4019,0.329,0.516,0.155
+bbcnews,BBC News (UK),Mon Nov 23 21:02:08 +0000 2020,135,Labour chief whip demands apology from Jeremy Corbyn https://t.co/BIlfNRwSpq,0.0516,0.13,0.87,0.0
+bbcnews,BBC News (UK),Mon Nov 23 20:28:15 +0000 2020,47,Snapchat Spotlight to pay users $1m a day for viral hits https://t.co/Z1yzXwCiJ0,-0.1027,0.0,0.887,0.113
+bbcnews,BBC News (UK),Mon Nov 23 19:46:04 +0000 2020,138,"“The Christmas holiday period, the loosenings around that… we all know that that is going to come at a risk”
+
+Prof… https://t.co/Fdm7jRCxy0",0.4019,0.114,0.886,0.0
+bbcnews,BBC News (UK),Mon Nov 23 19:36:36 +0000 2020,342,"""There will be no compulsory vaccination, that's not the way we do things in this country""
+
+But, Prime Minister Bor… https://t.co/XxcR5WijGx",-0.1531,0.0,0.926,0.074
+bbcnews,BBC News (UK),Mon Nov 23 19:35:41 +0000 2020,69,"How can the roll-out of the vaccine happen smoothly? asks @BBCFergusWalsh
+
+Boris Johnson says there are ""immense"" l… https://t.co/wGTJw8Las8",0.0,0.0,1.0,0.0
+bbcnews,BBC News (UK),Mon Nov 23 19:31:22 +0000 2020,92,"“Science and also the seasons, when we get through to spring, will help to de-risk this infection”
+
+Prof Chris Whit… https://t.co/JrI6V70fij",0.4019,0.119,0.881,0.0
+bbcnews,BBC News (UK),Mon Nov 23 19:24:15 +0000 2020,91,“Keeping young people in education wherever we can; that’s been at the heart of what we’ve been trying to do over t… https://t.co/3B0Dz0ThBV,0.6369,0.16,0.84,0.0
+bbcnews,BBC News (UK),Mon Nov 23 19:22:11 +0000 2020,149,"""'Tis the season to be jolly, but it is also the season to be jolly careful""
+
+Prime Minister Boris Johnson says Chr… https://t.co/oyHWDii9Xz",0.8176,0.298,0.702,0.0
+cbsnews,CBS News,Tue Nov 24 02:19:36 +0000 2020,100,Feinstein will not seek Senate Judiciary Committee leadership https://t.co/6Vv2tL8XXU,0.0,0.0,1.0,0.0
+cbsnews,CBS News,Tue Nov 24 01:59:56 +0000 2020,41,"Texas and Louisiana can cut Medicaid funding for Planned Parenthood, federal appeals court rules https://t.co/S9VWI6WSYl",-0.2732,0.0,0.87,0.13
+cbsnews,CBS News,Tue Nov 24 01:43:43 +0000 2020,0,"RT @CBSThisMorning: Who is your frontline hero?
+
+We want to share their stories, whether they are doctors, teachers, or grocery store emplo…",0.7269,0.272,0.728,0.0
+cbsnews,CBS News,Tue Nov 24 01:39:43 +0000 2020,93,Transgender inmate sues Georgia prison officials over alleged assaults https://t.co/YpDBvWYp6g,-0.7783,0.0,0.541,0.459
+cbsnews,CBS News,Tue Nov 24 01:30:06 +0000 2020,138,The General Services Administration has told President-elect Joe Biden they're ready to start the formal transition… https://t.co/UOWvgkoD0Z,0.3612,0.135,0.865,0.0
+cbsnews,CBS News,Tue Nov 24 01:19:36 +0000 2020,115,Millions of Americans traveling for Thanksgiving despite coronavirus warnings https://t.co/qh2RudGiNx,0.2235,0.173,0.827,0.0
+cbsnews,CBS News,Tue Nov 24 01:00:01 +0000 2020,60,South Dakota gripped by coronavirus pandemic as governor resists mandate https://t.co/P0SnwwdmfI,0.0,0.0,1.0,0.0
+cbsnews,CBS News,Tue Nov 24 00:56:15 +0000 2020,0,RT @CBSEveningNews: LEGAL BATTLE LOSSES: Several key states are set to certify their election results in the face of furious -- but so far…,-0.6269,0.057,0.705,0.237
+cbsnews,CBS News,Tue Nov 24 00:40:00 +0000 2020,43,GM to recall 6 million vehicles in U.S. to replace Takata air bags https://t.co/zWEvAzIddP,0.0,0.0,1.0,0.0
+cbsnews,CBS News,Tue Nov 24 00:19:47 +0000 2020,78,"What is the GSA, and what role does it play in the presidential transition? https://t.co/wESBp5EMlz",0.34,0.146,0.854,0.0
+cbsnews,CBS News,Tue Nov 24 00:11:35 +0000 2020,107,"Will Biden tap a U.N. ambassador to ""reclaim America's leading position""? https://t.co/aBXk7E0EpM",0.0,0.0,1.0,0.0
+cbsnews,CBS News,Tue Nov 24 00:01:48 +0000 2020,0,"RT @CBSEveningNews: TEXT OF THANKS: A mistaken text brought together a grandma and a 17-year-old back in 2016, and they’ve kept the traditi…",0.2808,0.134,0.774,0.092
+cbsnews,CBS News,Tue Nov 24 00:01:44 +0000 2020,0,"RT @CBSEveningNews: Jeopardy! says it will resume production next Monday with interim guest hosts following the death of Alex Trebek.
+
+All-…",-0.807,0.0,0.723,0.277
+cbsnews,CBS News,Tue Nov 24 00:01:40 +0000 2020,0,RT @CBSEveningNews: GOVERNMENT ORDERED RECALL: A federal recall has been issued for nearly six million General Motors SUVs and pick up truc…,0.0,0.0,1.0,0.0
+cbsnews,CBS News,Tue Nov 24 00:01:36 +0000 2020,0,RT @CBSEveningNews: SURGE IN THE HEARTLAND: South Dakota has reported more COVID-19 deaths per capita over the last week than anywhere else…,0.0,0.0,1.0,0.0
+cbsnews,CBS News,Tue Nov 24 00:01:33 +0000 2020,0,"RT @CBSEveningNews: After nine months of playing defense, the staff at Miami’s Jackson Memorial Hospital is preparing to be among the first…",0.3182,0.142,0.858,0.0
+cbsnews,CBS News,Tue Nov 24 00:01:28 +0000 2020,0,"RT @CBSEveningNews: RACING TO A CURE: The Oxford and AstraZeneca vaccine is said to be up to 90% effective in combating COVID-19.
+
+Plus, cl…",0.4767,0.119,0.881,0.0
+cbsnews,CBS News,Tue Nov 24 00:01:24 +0000 2020,0,"RT @CBSEveningNews: HISTORIC PICKS: President-elect Joe Biden is rolling out his national security team.
+
+The picks are notable for their d…",0.34,0.107,0.893,0.0
+cbsnews,CBS News,Tue Nov 24 00:01:20 +0000 2020,0,"RT @CBSEveningNews: President-elect Biden will now have access to the agencies, information and funding needed for a presidential transitio…",0.0,0.0,1.0,0.0
+cbsnews,CBS News,Tue Nov 24 00:01:16 +0000 2020,0,"RT @CBSEveningNews: HOLIDAY TRAVEL SURGE: Americans are ignoring the CDC's calls not to travel for Thanksgiving.
+
+Health experts warn that…",0.0857,0.14,0.693,0.167
+cnn,CNN,Tue Nov 24 02:29:12 +0000 2020,89,"Officers from the Utah Department of Public Safety's Aero Bureau were flying by helicopter last Wednesday, helping… https://t.co/j05XVkg8Cg",0.0,0.0,1.0,0.0
+cnn,CNN,Tue Nov 24 02:18:25 +0000 2020,308,The campaign of a spoiler candidate appeared to help a Republican unseat the Democratic incumbent in a Florida Sena… https://t.co/pbcZkjxoKG,0.4019,0.124,0.876,0.0
+cnn,CNN,Tue Nov 24 02:10:06 +0000 2020,343,Americans need to be prepared for the possibility that they may feel a little unwell after they get a coronavirus v… https://t.co/ODVHgSuxIE,0.2263,0.083,0.917,0.0
+cnn,CNN,Tue Nov 24 02:01:09 +0000 2020,353,Thailand's ancient city of Lobpuri is well known for its rambunctious macaques. This man tried to soothe a group of… https://t.co/HAhsbsxiPg,0.5574,0.195,0.805,0.0
+cnn,CNN,Tue Nov 24 01:51:07 +0000 2020,196,Vaccine experts — including those who serve on advisory committees for the US Food and Drug Administration and the… https://t.co/eVnb6J3XI8,0.0,0.0,1.0,0.0
+cnn,CNN,Tue Nov 24 01:39:08 +0000 2020,815,Former Obama admin. official Alejandro Mayorkas was tapped to lead the Department of Homeland Security by President… https://t.co/4KOkhH4pJO,0.34,0.124,0.876,0.0
+cnn,CNN,Tue Nov 24 01:27:07 +0000 2020,2632,"President-elect Joe Biden appointed John Kerry as his special presidential envoy for climate, underscoring his comm… https://t.co/qORQ0CYGNB",0.4019,0.144,0.856,0.0
+cnn,CNN,Tue Nov 24 01:23:57 +0000 2020,734,"Antony Blinken, President-elect Joe Biden's pick for secretary of state, has worked with the former VP for so long… https://t.co/vzDvuWoS3u",0.0,0.0,1.0,0.0
+cnn,CNN,Tue Nov 24 01:22:22 +0000 2020,1696,A growing group of Republican senators has signaled support for allowing President-elect Joe Biden to start the tra… https://t.co/PUaHQqIF4j,0.5267,0.206,0.794,0.0
+cnn,CNN,Tue Nov 24 00:51:06 +0000 2020,346,"Step aside ""murder hornets,"" sightings of an invasive species of a snake-like worm are being reported in Georgia https://t.co/BGFSDbDiFi",-0.6908,0.0,0.793,0.207
+cnn,CNN,Tue Nov 24 00:47:52 +0000 2020,1569,Pennsylvania's Supreme Court has rejected the Trump campaign's effort to block the counting of absentee ballots wit… https://t.co/LbTJvR1cZl,-0.5719,0.139,0.541,0.32
+cnn,CNN,Tue Nov 24 00:45:14 +0000 2020,299,"Bad Bunny performing at the American Music Awards had been eagerly anticipated, but he had to cancel after he teste… https://t.co/QPKQUvTIA0",-0.2382,0.149,0.665,0.186
+cnn,CNN,Tue Nov 24 00:31:32 +0000 2020,203,"Carbon emissions fell this spring, but the drop amounted to little more than ""just a tiny blip on the long-term gra… https://t.co/LxtRVBZbBK",-0.3919,0.0,0.888,0.112
+cnn,CNN,Tue Nov 24 00:24:44 +0000 2020,4200,"""Jeopardy!"" has announced that Ken Jennings, who holds the all-time record for the most consecutive games won at 74… https://t.co/xdldiZuzzJ",0.2859,0.168,0.71,0.122
+cnn,CNN,Tue Nov 24 00:19:50 +0000 2020,286,Apple's global head of security and two members of the Santa Clara County Sheriff's office have been indicted by a… https://t.co/zpbepx8yhC,0.34,0.107,0.893,0.0
+cnn,CNN,Tue Nov 24 00:13:27 +0000 2020,684,"In a letter to environmental groups, General Motors announced it was withdrawing its support from Trump administrat… https://t.co/FaXqDunDtu",0.4019,0.137,0.863,0.0
+cnn,CNN,Tue Nov 24 00:04:29 +0000 2020,168,A North Atlantic right whale calf was discovered dead on the shore of a barrier island off North Carolina on Friday… https://t.co/wIKXhtYwNZ,-0.7003,0.0,0.775,0.225
+cnn,CNN,Mon Nov 23 23:47:23 +0000 2020,1319,Read the letter: https://t.co/QiIAktOQpp,0.0,0.0,1.0,0.0
+cnn,CNN,Mon Nov 23 23:22:12 +0000 2020,16778,JUST IN: The Trump administration has informed President-elect Joe Biden that they are ready to begin the formal tr… https://t.co/NBeFQRV752,0.3612,0.116,0.884,0.0
+cnn,CNN,Mon Nov 23 23:07:45 +0000 2020,227,Here are a few winter romcoms to take our minds off real life https://t.co/Dxx8yW96ZM,0.0,0.0,1.0,0.0
+foxnews,Fox News,Tue Nov 24 02:23:00 +0000 2020,162,Rand Paul says DC US Attorney won't investigate RNC protestors who confronted him at RNC https://t.co/cFdPZicmJp,-0.2023,0.0,0.893,0.107
+foxnews,Fox News,Tue Nov 24 02:11:29 +0000 2020,356,WATCH: NY business owners demand warrant when health inspector barges inside over Cuomo COVID restriction https://t.co/xNvp2wgxx2,-0.3818,0.0,0.795,0.205
+foxnews,Fox News,Tue Nov 24 01:08:10 +0000 2020,470,'Jeopardy!' taps Ken Jennings as first guest host for show's restart https://t.co/BWzMXwayzD,-0.5255,0.0,0.764,0.236
+foxnews,Fox News,Tue Nov 24 01:04:07 +0000 2020,236,Feinstein won't seek top Judiciary Committee spot after complaints from progressives https://t.co/2RJTrZddC6,-0.5093,0.0,0.7,0.3
+foxnews,Fox News,Mon Nov 23 23:46:20 +0000 2020,1289,GSA chief informs President-elect Biden that formal transition process can begin https://t.co/XgJYp1pbLC,0.0,0.0,1.0,0.0
+foxnews,Fox News,Mon Nov 23 21:45:41 +0000 2020,629,Pa. Supreme Court rejects Trump challenge to absentee ballots in Allegheny County https://t.co/6xm9o2syHk,-0.1027,0.255,0.469,0.276
+foxnews,Fox News,Mon Nov 23 21:43:40 +0000 2020,888,Mattis says he hopes Joe Biden takes 'America First' out of national security strategy https://t.co/uqOtE3T5sQ,0.6369,0.286,0.714,0.0
+foxnews,Fox News,Mon Nov 23 21:42:05 +0000 2020,65,"Get your copy - pre-order today: Pete Hegseth’s ""Modern Warriors: Real Stories from Real Heroes,"" available in book… https://t.co/VjwF4GuUqN",0.5106,0.155,0.845,0.0
+foxnews,Fox News,Mon Nov 23 20:34:43 +0000 2020,411,Biden to tap former Fed Chair Janet Yellen as Treasury secretary: report https://t.co/tXapuCSNpz,0.2023,0.13,0.87,0.0
+foxnews,Fox News,Mon Nov 23 19:36:50 +0000 2020,189,"NYC police upping patrol amid uptick in 'subway shove' incidents, shootings https://t.co/ogKy5BpAYH",0.0,0.0,1.0,0.0
+foxnews,Fox News,Mon Nov 23 19:14:01 +0000 2020,214,"NYC mayor sounds alarm after multiple people pushed onto subway train tracks
+https://t.co/VRCGGflYO8",-0.34,0.0,0.833,0.167
+foxnews,Fox News,Mon Nov 23 18:59:14 +0000 2020,722,"'Deserves to be on trial': Critics react to New York Gov. Cuomo winning Emmy award for COVID leadership
+https://t.co/mNg8nCpgzC",0.6908,0.275,0.637,0.088
+foxnews,Fox News,Mon Nov 23 17:59:42 +0000 2020,1412,"Trump's election lawsuit leads to 3rd Circuit grant for expedited review
+https://t.co/KODMmmrNxa",0.1531,0.174,0.694,0.132
+foxnews,Fox News,Mon Nov 23 17:35:38 +0000 2020,561,"President-elect Biden announced who he intends to nominate for key Cabinet positions, including ex-sec. of state Jo… https://t.co/oHQfSoreUi",0.0,0.0,1.0,0.0
+foxnews,Fox News,Mon Nov 23 17:15:55 +0000 2020,193,"MSNBC panel labels Thanksgiving a cannibalistic 'Colonizer Christmas'
+https://t.co/e9Sx4n7C8t",0.0,0.0,1.0,0.0
+foxnews,Fox News,Mon Nov 23 16:31:30 +0000 2020,185,"Coast Guard searches for 4-member crew of fishing boat that sank off Massachusetts coast
+https://t.co/f49SQgi5mS",0.0,0.0,1.0,0.0
+foxnews,Fox News,Mon Nov 23 16:05:43 +0000 2020,442,"NJ Gov. Murphy accosted over coronavirus restrictions, masks while dining with family
+https://t.co/vouENt6ACY",0.0,0.0,1.0,0.0
+foxnews,Fox News,Mon Nov 23 15:53:53 +0000 2020,0,RT @FoxBusiness: Most expensive video game ever: Rare copy of 'Super Mario 3' sold at auction https://t.co/Bcj6vLxEsT,0.5994,0.196,0.804,0.0
+foxnews,Fox News,Mon Nov 23 15:35:59 +0000 2020,215,"Biden's expected secretary of state pick criticized over Iraq War, consulting work
+https://t.co/HV3x6nxbkq",-0.7506,0.0,0.632,0.368
+foxnews,Fox News,Mon Nov 23 14:51:40 +0000 2020,4490,"Georgia GOP Senate candidates back Trump's call for recount, more signature matching
+https://t.co/A8qUIHZM35",0.0,0.0,1.0,0.0
+nytimes,The New York Times,Tue Nov 24 02:20:07 +0000 2020,374,"“Gilmore Girls” fans can spend some time with their favorite mother-daughter duo this week. The 2016 revival, “Gilm… https://t.co/TzFnMdWx43",0.4588,0.143,0.857,0.0
+nytimes,The New York Times,Tue Nov 24 02:00:07 +0000 2020,0,RT @shearm: TRANSITION -- The Trump admin finally relented and will allow the transition to begin after a day of critical losses in the att…,-0.4767,0.066,0.761,0.173
+nytimes,The New York Times,Tue Nov 24 01:40:03 +0000 2020,282,Sohla El-Waylly is here for all the stuffing leftovers. https://t.co/98fC1jki3C,0.0,0.0,1.0,0.0
+nytimes,The New York Times,Tue Nov 24 01:20:05 +0000 2020,0,RT @FrancescaDonner: #MuslimWomenAreEverything breaks apart the tired old tropes about Muslim women. It was born out of a “frustration that…,-0.4404,0.0,0.868,0.132
+nytimes,The New York Times,Tue Nov 24 01:00:18 +0000 2020,964,How will Covid-19 vaccines get to billions of people in the developing world? Bill Gates thinks he and his foundati… https://t.co/xvJ7pEUcxD,0.0,0.0,1.0,0.0
+nytimes,The New York Times,Tue Nov 24 00:40:04 +0000 2020,203,Ashley Diamond became a voice for incarcerated transgender people after she sued the state of Georgia to change its… https://t.co/NmANLJWpk3,0.34,0.112,0.888,0.0
+nytimes,The New York Times,Tue Nov 24 00:20:04 +0000 2020,0,"RT @mattfleg: What, exactly, was he holding onto? Why fight so hard, and put the country through so much, to keep a position he has often n…",-0.5371,0.0,0.848,0.152
+nytimes,The New York Times,Tue Nov 24 00:00:06 +0000 2020,1031,"""Jeopardy!"" is not yet ready to name Alex Trebek's replacement. For now, Ken Jennings and other short-term hosts wi… https://t.co/yOwhRmWxHX",-0.6707,0.0,0.766,0.234
+nytimes,The New York Times,Mon Nov 23 23:45:05 +0000 2020,183,Political leaders and public health officials have recently blamed small gatherings for the rise in coronavirus cas… https://t.co/CRzUehliaD,-0.4767,0.0,0.846,0.154
+nytimes,The New York Times,Mon Nov 23 23:34:12 +0000 2020,7709,Breaking News: President Trump authorized his government to begin the transition to President-elect Joe Biden’s adm… https://t.co/aTEVv3JRnw,0.0,0.0,1.0,0.0
+nytimes,The New York Times,Mon Nov 23 23:20:02 +0000 2020,0,RT @aoscott: In which I do not quite argue (but sort of imply) that Tyler Perry would have the best choice to direct Hillbilly Elegy https:…,0.8139,0.236,0.764,0.0
+nytimes,The New York Times,Mon Nov 23 23:00:14 +0000 2020,84,"Doctors have seen a spike in the number of women arriving in emergency rooms with serious complications, or already… https://t.co/RRBz6WJCrF",-0.3818,0.059,0.766,0.176
+nytimes,The New York Times,Mon Nov 23 23:00:13 +0000 2020,76,"Griselda found a midwife to deliver her daughter at home. Because she hopes to legalize one day, she has avoided go… https://t.co/BG0oq6Zn4V",0.1027,0.111,0.794,0.095
+nytimes,The New York Times,Mon Nov 23 23:00:13 +0000 2020,13,"Then, Britani landed in the ER for the second time, with a more severe infection. The family decided her only optio… https://t.co/45WCwTmmLw",-0.4391,0.0,0.879,0.121
+nytimes,The New York Times,Mon Nov 23 23:00:12 +0000 2020,18,"Late one night in July 2019, Britani started bleeding. An ER doctor said she had an infection that could cause her… https://t.co/wwWREbC7Jt",0.0,0.0,1.0,0.0
+nytimes,The New York Times,Mon Nov 23 23:00:11 +0000 2020,277,"Undocumented women, fearful of the Trump administration’s immigration-enforcement policies, are risking their healt… https://t.co/iZho0GJNG0",-0.6705,0.0,0.686,0.314
+nytimes,The New York Times,Mon Nov 23 22:49:30 +0000 2020,648,"Here's who to expect in Joe Biden's cabinet, so far: https://t.co/4r2sVxULVB",0.0,0.0,1.0,0.0
+nytimes,The New York Times,Mon Nov 23 22:45:09 +0000 2020,468,"AstraZeneca and the University of Oxford announced that their inexpensive, easy-to-produce coronavirus vaccine appe… https://t.co/Qb8OYYQ8kf",0.0,0.0,1.0,0.0
+nytimes,The New York Times,Mon Nov 23 22:30:11 +0000 2020,105,The Oscar-nominated cinematographer who shot “A Star is Born” says someone drugged him when he collapsed at a film… https://t.co/OzJZsghCen,-0.2732,0.0,0.9,0.1
+nytimes,The New York Times,Mon Nov 23 22:20:04 +0000 2020,86,"Update: The police in San Jose, California, said they had arrested a suspect in connection with a stabbing attack a… https://t.co/ePRlZKm3fj",-0.8126,0.0,0.682,0.318
+bbcnews,BBC News (UK),Mon Nov 23 19:19:27 +0000 2020,543,"""It's important to pay tribute to the 20,000 volunteers that there are in trials around the world… who’ve come forw… https://t.co/RbgabMQ3sB",0.1027,0.081,0.856,0.063
+bbcnews,BBC News (UK),Mon Nov 23 19:18:08 +0000 2020,94,"""Get a test to help to squeeze the disease and reduce the restrictions that your town or city has endured""
+
+Prime M… https://t.co/GaCIyeZaZS",0.4019,0.109,0.891,0.0
+bbcnews,BBC News (UK),Mon Nov 23 19:15:26 +0000 2020,110,"""Even if all three vaccines are approved... it will be months before we can be sure we've inoculated everyone that… https://t.co/b5izY3k65k",0.6249,0.212,0.788,0.0
+bbcnews,BBC News (UK),Mon Nov 23 19:15:12 +0000 2020,106,"“I really am assured, now, that things will look and feel very different, indeed, after Easter”
+
+Prime Minister Bor… https://t.co/m7cYE24U9O",0.4173,0.128,0.872,0.0
+bbcnews,BBC News (UK),Mon Nov 23 19:11:22 +0000 2020,235,"“We can hear the drumming hooves of the cavalry coming over the brow of the hill, but they are not here yet”
+
+Prime… https://t.co/tYqkdMfEBe",0.0,0.0,1.0,0.0
+bbcnews,BBC News (UK),Mon Nov 23 18:40:48 +0000 2020,658,"""From the beginning, we're seeing it as a race against the virus, not a race against other vaccine developers""
+
+Mee… https://t.co/GKstBG6bCj",0.0,0.0,1.0,0.0
+bbcnews,BBC News (UK),Mon Nov 23 18:04:50 +0000 2020,166,"Fewer than a third of teachers in Scotland feel safe from Covid in schools, according to a survey carried out by Sc… https://t.co/9a3ch5HdTS",0.4404,0.116,0.884,0.0
+bbcnews,BBC News (UK),Mon Nov 23 18:03:20 +0000 2020,167,"If Prof Sarah Gilbert had gone with her instincts, the latest coronavirus vaccine to show promising results, from O… https://t.co/a9V8gUCYee",0.4019,0.124,0.876,0.0
+bbcnews,BBC News (UK),Mon Nov 23 17:35:01 +0000 2020,91,"➡️ Boris Johnson confirms national lockdown to end on 2 Dec
+➡️ England returns to three-tier system, but tougher
+➡️… https://t.co/IvwTbnrJIZ",0.2617,0.082,0.918,0.0
+bbcnews,BBC News (UK),Mon Nov 23 17:00:08 +0000 2020,388,"The Covid-19 vaccine developed by the University of Oxford is 70% effective, large scale trial shows
+
+Here's everyt… https://t.co/6GHPPqgQV4",0.4767,0.147,0.853,0.0
+bbcnews,BBC News (UK),Mon Nov 23 16:48:56 +0000 2020,0,"RT @BBCSport: No Wilfried Zaha for Crystal Palace this evening with Michy Batshuayi stepping in instead.
+
+Burnley make two changes to the s…",-0.296,0.0,0.909,0.091
+bbcnews,BBC News (UK),Mon Nov 23 16:47:00 +0000 2020,126,Students in England urged to take two Covid tests three days apart ahead of Christmas exit https://t.co/Vtv2e5kjcr,0.0,0.0,1.0,0.0
+bbcnews,BBC News (UK),Mon Nov 23 16:31:25 +0000 2020,0,"RT @BBCPolitics: Carols at Christmas? 🎶
+
+""We don't want it to be the silent night,"" says Conservative MP Edward Leigh 
+
+Latest: https://t.c…",-0.0572,0.0,0.947,0.053
+bbcnews,BBC News (UK),Mon Nov 23 16:23:23 +0000 2020,445,Gyms and all shops to reopen after English lockdown https://t.co/uj5eLnbz2u,0.0,0.0,1.0,0.0
+bbcnews,BBC News (UK),Mon Nov 23 16:21:35 +0000 2020,0,"RT @BBCPolitics: ""Have you pressed the button prime minister?... It's not our end""
+
+Boris Johnson experiences video-conferencing issues whi…",0.0,0.0,1.0,0.0
+bbcnews,BBC News (UK),Mon Nov 23 16:09:28 +0000 2020,162,"“If we’re reintroducing a three-tier system without having fixed trace and isolate, that is a major risk”
+
+Labour l… https://t.co/NCVvhpctPK",-0.2023,0.0,0.913,0.087
+bbcnews,BBC News (UK),Mon Nov 23 16:02:46 +0000 2020,443,"Labour leader Keir Starmer says return to England's tier system is ""risky"" 
+
+""The previous three-tier system didn't… https://t.co/GAjnR9q7OC",-0.2023,0.0,0.904,0.096
+bbcnews,BBC News (UK),Mon Nov 23 16:00:51 +0000 2020,150,"“As soon as a vaccine is approved, we will dispense it as quickly as possible ”
+
+Boris Johnson says rapid testing i… https://t.co/UwziXgjk9H",0.4215,0.113,0.887,0.0
+bbcnews,BBC News (UK),Mon Nov 23 16:00:08 +0000 2020,75,"“2020 has been, in many ways, a tragic year when so many have lost loved ones and faced financial ruin - this will… https://t.co/uLBYRJkZ12",-0.6666,0.117,0.601,0.281
+bbcnews,BBC News (UK),Mon Nov 23 15:57:11 +0000 2020,97,"“Last orders at 10 with closing at 11”
+
+Boris Johnson sets out changes to Covid restrictions set to come into force… https://t.co/Q6v5i7vCFF",0.0,0.0,1.0,0.0
+cbsnews,CBS News,Mon Nov 23 23:59:55 +0000 2020,44,China launches ambitious mission to land on moon and return samples to Earth https://t.co/3oLSEuI6kZ,0.4767,0.193,0.807,0.0
+cbsnews,CBS News,Mon Nov 23 23:50:26 +0000 2020,0,"RT @adam_brew: Also tonight: the MI Supreme Court denied a request to block the state from certifying. Results have been certified.
+
+This w…",-0.296,0.122,0.68,0.197
+cbsnews,CBS News,Mon Nov 23 23:45:08 +0000 2020,0,"RT @Grace_Segers: In her letter, Emily Murphy said: ""I came to my decision independently.""
+
+Moments after it was sent to the press, Preside…",0.0,0.0,1.0,0.0
+cbsnews,CBS News,Mon Nov 23 23:40:10 +0000 2020,0,"RT @BoKnowsNews: Let the transition begin: @CBSNews confirms the GSA sent a letter ascertaining Joe Biden as the election winner, allowing…",0.5859,0.16,0.84,0.0
+cbsnews,CBS News,Mon Nov 23 23:39:51 +0000 2020,0,RT @finnygo: NEW: Biden- Harris transition statement on GSA Letter of Ascertainment. Per @Transition46  Executive Director Yohannes Abraham…,0.0,0.0,1.0,0.0
+cbsnews,CBS News,Mon Nov 23 23:39:34 +0000 2020,75,More Americans flew on Sunday than any other day since March 16 https://t.co/H6FklQ0drJ https://t.co/UTvA21t20X,0.0,0.0,1.0,0.0
+cbsnews,CBS News,Mon Nov 23 23:37:59 +0000 2020,2303,BREAKING: GSA tells Biden team they can begin formal transition process https://t.co/Hk2PgSRKdg,0.0,0.0,1.0,0.0
+cbsnews,CBS News,Mon Nov 23 23:22:42 +0000 2020,752,BREAKING: Michigan certifies election results and Biden's victory in the state https://t.co/TrJrwdxmCR,0.0,0.0,1.0,0.0
+cbsnews,CBS News,Mon Nov 23 23:20:00 +0000 2020,940,"""Jeopardy!"" will resume production with Ken Jennings as the first interim host https://t.co/mgj8GuAxfY",-0.5255,0.0,0.78,0.22
+cbsnews,CBS News,Mon Nov 23 23:10:07 +0000 2020,305,"A reporter asked President-elect Biden if he expects Republican roadblocks to nominees for his administration.
+
+Bid… https://t.co/ushvpdPKJ7",0.0,0.0,1.0,0.0
+cbsnews,CBS News,Mon Nov 23 22:59:46 +0000 2020,224,"""A staggering amount"": @bluestein reports more than 760,000 people have already requested absentee ballots for Geor… https://t.co/AsKXYqbNCK",-0.2732,0.0,0.884,0.116
+cbsnews,CBS News,Mon Nov 23 22:55:00 +0000 2020,255,Michigan has certified its election results — and Joe Biden's victory in the state. @adam_brew discusses President… https://t.co/Fw64D38n9P,0.0,0.0,1.0,0.0
+cbsnews,CBS News,Mon Nov 23 22:49:39 +0000 2020,541,"GM drops out of Trump's air pollution lawsuit against California, says it's all in on electric cars https://t.co/WHzzhdJBak",-0.2263,0.0,0.899,0.101
+cbsnews,CBS News,Mon Nov 23 22:40:56 +0000 2020,116,President-elect Biden is expected to announce Tony Blinken as his nominee for secretary of state. @EenaRuffini expl… https://t.co/jjRWg01UkR,0.0,0.0,1.0,0.0
+cbsnews,CBS News,Mon Nov 23 22:31:06 +0000 2020,39,Ravens' J.K. Dobbins and Mark Ingram test positive for COVID-19 https://t.co/CvyjH8yuHZ,0.5574,0.265,0.735,0.0
+cbsnews,CBS News,Mon Nov 23 22:10:13 +0000 2020,772,President-elect Joe Biden told a virtual meeting of mayors across the country that his administration will support… https://t.co/VZ3yGFjY6Z,0.0,0.0,1.0,0.0
+cbsnews,CBS News,Mon Nov 23 22:09:29 +0000 2020,132,.@chueyburns says President-elect Biden's administration choices so far show that he is putting a premium on Washin… https://t.co/LUf1eFjT3V,0.0,0.0,1.0,0.0
+cbsnews,CBS News,Mon Nov 23 22:01:56 +0000 2020,60,"WATCH LIVE: CBSN's ""Red &amp; Blue"" has news and analysis on today's top politics stories, as President-elect Joe Biden… https://t.co/xkCWu1MH1d",0.2023,0.087,0.913,0.0
+cbsnews,CBS News,Mon Nov 23 21:49:44 +0000 2020,121,GSA will brief House and Senate committee leaders as it stalls transition https://t.co/LdR1tLcJWS,0.0,0.0,1.0,0.0
+cbsnews,CBS News,Mon Nov 23 21:39:19 +0000 2020,0,"RT @adam_brew: JUST IN: The Michigan Board of State Canavassers voted to certify Michigan's election results. 3 yes votes, one abstention.",0.4019,0.119,0.881,0.0
+cnn,CNN,Mon Nov 23 22:45:53 +0000 2020,524,Dr. Sanjay Gupta shares his tips on how to celebrate a safe Thanksgiving. The safest option is to skip in-person ga… https://t.co/BBdUyJnIIX,0.8885,0.39,0.61,0.0
+cnn,CNN,Mon Nov 23 22:37:14 +0000 2020,1878,"""If the Trump campaign's legal team is counting on the Supreme Court to save them, they're delusional,"" @eliehonig… https://t.co/qeaECuwvcN",0.8074,0.342,0.658,0.0
+cnn,CNN,Mon Nov 23 22:20:23 +0000 2020,1510,"Republican Sen. Shelley Moore Capito said it's time for President-elect Joe Biden to begin ""receiving all appropria… https://t.co/1PXuNRMnFL",0.0,0.0,1.0,0.0
+cnn,CNN,Mon Nov 23 22:17:00 +0000 2020,3894,"Michigan certifies election results, formally granting President-elect Joe Biden the state's 16 electoral votes and… https://t.co/VdI0RZmxu5",0.3182,0.133,0.867,0.0
+cnn,CNN,Mon Nov 23 21:53:51 +0000 2020,316,How President Trump's fundraising could benefit his post-White House political life https://t.co/S7Pd9G1a9j https://t.co/FOlQo0EmjL,0.4588,0.2,0.8,0.0
+cnn,CNN,Mon Nov 23 21:21:40 +0000 2020,1076,"President-elect Joe Biden will choose Janet Yellen, former chair of the Federal Reserve, as his secretary of the Tr… https://t.co/PPrIhmYe83",0.0,0.0,1.0,0.0
+cnn,CNN,Mon Nov 23 20:52:59 +0000 2020,639,Having a single negative Covid-19 test is not sufficient for a safe Thanksgiving because it does not prove that you… https://t.co/2nXDDjyyjv,-0.2023,0.113,0.742,0.145
+cnn,CNN,Mon Nov 23 20:33:08 +0000 2020,804,"Macy's says its 2020 holiday window displays are ""a form of a thank you letter to first responders, essential worke… https://t.co/ZBcMWWrFzl",0.6369,0.215,0.785,0.0
+cnn,CNN,Mon Nov 23 20:26:55 +0000 2020,352,The first clear evidence that Native Americans consumed hallucinogenic plants at rock art sites has been found in t… https://t.co/yMOKA1H5Jo,0.3818,0.12,0.88,0.0
+cnn,CNN,Mon Nov 23 20:01:06 +0000 2020,196,GM is recalling 7 million pickups and SUVs worldwide with airbags made by the same manufacturer whose airbags are l… https://t.co/VVaAfxcrPe,0.0,0.0,1.0,0.0
+cnn,CNN,Mon Nov 23 20:00:18 +0000 2020,535,"Since Gov. Ron DeSantis reopened Florida in late September, the number of reported Covid-19 cases per week in the s… https://t.co/EKOZhSuFmc",0.0772,0.061,0.939,0.0
+cnn,CNN,Mon Nov 23 19:46:09 +0000 2020,557,Enterprise Rent-A-Car's parent company pledged to donate $120 million to causes aimed at improving racial equity an… https://t.co/81e4rMOIpU,0.4215,0.141,0.859,0.0
+cnn,CNN,Mon Nov 23 19:41:33 +0000 2020,777,Executives from several publicly traded companies have acknowledged Joe Biden's victory and discussed what they exp… https://t.co/8FH901lZrc,0.0,0.0,1.0,0.0
+cnn,CNN,Mon Nov 23 19:20:56 +0000 2020,694,"The slate of nominations announced Thursday included confirmation of the selection of
+
+▪︎ Antony Blinken as secreta… https://t.co/EOyQE1hp61",0.0,0.0,1.0,0.0
+cnn,CNN,Mon Nov 23 19:18:26 +0000 2020,566,Former Secretary of State John Kerry has been tapped to serve as Biden's climate czar. Kerry is a champion of the P… https://t.co/VKmtRY1g3n,0.5994,0.151,0.849,0.0
+cnn,CNN,Mon Nov 23 19:16:52 +0000 2020,698,"Avril Haines, a former top CIA official and deputy national security adviser, has been nominated for director of na… https://t.co/f03FNPEhn3",0.4939,0.189,0.811,0.0
+cnn,CNN,Mon Nov 23 19:16:13 +0000 2020,411,Alejandro Mayorkas has been nominated to be Biden's secretary of the Department of Homeland Security. He would be t… https://t.co/DGq06jYHRm,0.34,0.112,0.888,0.0
+cnn,CNN,Mon Nov 23 19:15:09 +0000 2020,1225,President-elect Joe Biden has announced these nominations for his foreign policy and national security team https://t.co/SAAAQYwyiI,0.34,0.138,0.862,0.0
+cnn,CNN,Mon Nov 23 19:10:02 +0000 2020,750,"""I have the Cadillac of metal detectors,"" said Ryan Ledbetter, who helped a fellow Rhode Island resident find the w… https://t.co/JjeuCCDqoN",0.0,0.0,1.0,0.0
+cnn,CNN,Mon Nov 23 19:05:06 +0000 2020,3676,"""We believe that President Trump's refusal to concede the election and allow for an orderly transition constitutes… https://t.co/hty54lbVGT",0.2263,0.101,0.899,0.0
+foxnews,Fox News,Mon Nov 23 14:23:07 +0000 2020,0,RT @FoxBusiness: AOC-aligned group attacks state Sen. Liz Krueger to push tax agenda https://t.co/DQK3xWAKLF,-0.4404,0.0,0.818,0.182
+foxnews,Fox News,Mon Nov 23 13:50:03 +0000 2020,0,"RT @FoxBusiness: Tesla stock to hit $1,000 in bull case as global demand soars https://t.co/BD68uSPGUA",-0.128,0.0,0.903,0.097
+foxnews,Fox News,Mon Nov 23 13:49:52 +0000 2020,259,"Democrat governor imposes 3-week 'statewide pause' where COVID positivity rate soars to 16.5%
+https://t.co/rbt6VJ0Dml",0.4404,0.198,0.719,0.084
+foxnews,Fox News,Mon Nov 23 02:24:56 +0000 2020,777,https://t.co/CFxgCcZHxk,0.0,0.0,1.0,0.0
+foxnews,Fox News,Mon Nov 23 01:36:39 +0000 2020,1186,https://t.co/AslllVnlj1,0.0,0.0,1.0,0.0
+foxnews,Fox News,Mon Nov 23 00:37:02 +0000 2020,270,https://t.co/GqiAUaGZmq,0.0,0.0,1.0,0.0
+foxnews,Fox News,Mon Nov 23 00:16:39 +0000 2020,489,https://t.co/uCbyEpJmTW,0.0,0.0,1.0,0.0
+foxnews,Fox News,Sun Nov 22 23:38:45 +0000 2020,346,https://t.co/Ibn1ZQAPYF,0.0,0.0,1.0,0.0
+foxnews,Fox News,Sun Nov 22 22:46:32 +0000 2020,261,https://t.co/HHAvJMEnc7,0.0,0.0,1.0,0.0
+foxnews,Fox News,Sun Nov 22 21:31:37 +0000 2020,845,https://t.co/WX12NGTi7g,0.0,0.0,1.0,0.0
+foxnews,Fox News,Sun Nov 22 20:53:37 +0000 2020,1397,BREAKING: https://t.co/NdOwlZRjfr,0.0,0.0,1.0,0.0
+foxnews,Fox News,Sun Nov 22 20:46:31 +0000 2020,1128,Trump campaign files appeal after Pennsylvania judge shoots down lawsuit https://t.co/NdOwlZRjfr,-0.2263,0.0,0.84,0.16
+foxnews,Fox News,Sun Nov 22 19:53:04 +0000 2020,309,"Large crowds still reported at airports across the nation, although overall number of travelers is down https://t.co/R4wv2gge7A",0.0772,0.075,0.925,0.0
+foxnews,Fox News,Sun Nov 22 19:05:02 +0000 2020,472,China president proposes global QR code health system to boost travel amid pandemic https://t.co/TkoullUWcy,0.4019,0.172,0.828,0.0
+foxnews,Fox News,Sun Nov 22 18:23:00 +0000 2020,273,"Higher education groups ask Biden to reverse Trump orders on Title IX reform, critical race theory https://t.co/UBTELxm2N0",-0.3182,0.0,0.874,0.126
+foxnews,Fox News,Sun Nov 22 17:24:00 +0000 2020,142,Alabama's Nick Saban snaps back after question about team's time of possession in blowout win https://t.co/TKiMeQhFaM,0.5859,0.202,0.798,0.0
+foxnews,Fox News,Sun Nov 22 16:32:01 +0000 2020,1588,"Operation Warp Speed projects 70% herd immunity, potential return to normalcy May 2021 https://t.co/FcqOIwHw4H",0.0,0.0,1.0,0.0
+foxnews,Fox News,Sun Nov 22 13:52:00 +0000 2020,825,"Six months after George Floyd's death, Minneapolis reeling from rise in violence https://t.co/9UI3r82Ki7",-0.8402,0.0,0.579,0.421
+foxnews,Fox News,Sun Nov 22 12:57:00 +0000 2020,1224,"US to pull out of arms control pact with Russia Sunday, officials say https://t.co/fOzlPfZZIW",0.0,0.0,1.0,0.0
+foxnews,Fox News,Sun Nov 22 12:13:00 +0000 2020,234,"Subway shoving, flamethrowers, shootings in NYC blamed on 'perfect storm' of police reform, pandemic https://t.co/oFMJ2c07eW",0.1531,0.187,0.657,0.157
+nytimes,The New York Times,Mon Nov 23 22:15:08 +0000 2020,186,Outdoor dining in Los Angeles will end for three weeks beginning on Wednesday. Restaurant owners and chefs scramble… https://t.co/8MoHniE8rL,0.0,0.0,1.0,0.0
+nytimes,The New York Times,Mon Nov 23 22:00:06 +0000 2020,2418,"The head of the General Services Administration, Emily Murphy, ignored a request to brief Congress on her delay in… https://t.co/ve6ELPlr5r",-0.5574,0.0,0.796,0.204
+nytimes,The New York Times,Mon Nov 23 21:44:15 +0000 2020,2843,"Breaking News: Michigan’s top elections board voted to certify the election results, a blow to President Trump, who… https://t.co/KVWIdFbfV2",0.2023,0.091,0.909,0.0
+nytimes,The New York Times,Mon Nov 23 21:40:03 +0000 2020,130,A scientist tracked the dangers of flame retardants in children's toys and why manufacturers cannot seem to stop us… https://t.co/2KHG809oS5,-0.3208,0.082,0.78,0.139
+nytimes,The New York Times,Mon Nov 23 21:30:14 +0000 2020,1188,"President-elect Joe Biden, who turned 78 last week, has consistently worn masks during the pandemic, and has been m… https://t.co/kCbBYlbPKf",-0.296,0.0,0.896,0.104
+nytimes,The New York Times,Mon Nov 23 21:22:47 +0000 2020,735,"Janet Yellen, who was the first female Fed chair, is likely to bring to the Treasury a long-held preference for giv… https://t.co/WE5hjdfJmo",0.2023,0.079,0.921,0.0
+nytimes,The New York Times,Mon Nov 23 21:20:04 +0000 2020,641,"Counties across Pennsylvania have certified election results, moving the process of cementing President-elect Joe B… https://t.co/T0YuQrhm90",0.0,0.0,1.0,0.0
+nytimes,The New York Times,Mon Nov 23 21:15:04 +0000 2020,0,RT @NYTHealth: He is not a scientist. He is not a doctor. But Bill Gates is the most powerful private player in global public health — and…,0.6297,0.137,0.863,0.0
+nytimes,The New York Times,Mon Nov 23 21:00:27 +0000 2020,0,RT @NYTScience: China's Chang'e-5 mission to bring moon rocks back to Earth has launched to orbit. Follow its progress here: https://t.co/f…,0.5106,0.185,0.815,0.0
+nytimes,The New York Times,Mon Nov 23 21:00:13 +0000 2020,235,"The ventilator shortage may be solved for now, but many hospitals can’t find enough specialists to operate them as… https://t.co/hq2XAy0ijD",0.0129,0.074,0.855,0.071
+nytimes,The New York Times,Mon Nov 23 20:55:03 +0000 2020,343,"The ACLU sued a meatpacking plant in Nebraska, alleging that it failed to take measures to prevent the spread of th… https://t.co/44YAjFTrNm",-0.4939,0.045,0.82,0.135
+nytimes,The New York Times,Mon Nov 23 20:50:06 +0000 2020,0,RT @sheeraf: NEW - A look at how the top superspreaders of misinformation are responsible for a disproportionate amount of the false posts…,0.2023,0.155,0.758,0.087
+nytimes,The New York Times,Mon Nov 23 20:40:04 +0000 2020,223,“I might have to FaceTime with my dad so he can reteach me how to use a razor.” Ski patrollers are known for their… https://t.co/0vJOzZlQDS,0.0,0.0,1.0,0.0
+nytimes,The New York Times,Mon Nov 23 20:30:22 +0000 2020,927,A Republican member of the board responsible for certifying Michigan’s election results signaled his intention to v… https://t.co/b1v9W428aj,0.3182,0.119,0.881,0.0
+nytimes,The New York Times,Mon Nov 23 20:24:00 +0000 2020,1697,"Breaking News: President-elect Joe Biden is expected to nominate Janet Yellen, the former chair of the Federal Rese… https://t.co/uvowT6Q4bh",0.0,0.0,1.0,0.0
+nytimes,The New York Times,Mon Nov 23 20:12:27 +0000 2020,1193,"Alejandro Mayorkas, a Cuban-born immigrant and a former U.S. Citizenship and Immigration Services director, was dep… https://t.co/lQScOXL8Pc",0.0,0.0,1.0,0.0
+nytimes,The New York Times,Mon Nov 23 20:12:25 +0000 2020,709,"Linda Thomas-Greenfield, a former director general and HR director of the Foreign Service, will be nominated to be… https://t.co/kdNMmP4mmD",0.0,0.0,1.0,0.0
+nytimes,The New York Times,Mon Nov 23 20:12:24 +0000 2020,330,"Avril Haines, nominated to be the first woman to lead the intelligence community, has previously been the deputy di… https://t.co/cuOhdYVyuy",0.4767,0.14,0.86,0.0
+nytimes,The New York Times,Mon Nov 23 20:12:22 +0000 2020,429,"After serving as secretary of state from 2013 to 2017, John Kerry made climate change his signature issue. His role… https://t.co/950zzRyutI",0.0,0.0,1.0,0.0
+nytimes,The New York Times,Mon Nov 23 20:00:18 +0000 2020,93,"As Americans splinter into isolated Thanksgivings, people everywhere are looking for new ways to connect with their… https://t.co/NDJbHWwMOb",-0.3182,0.0,0.881,0.119
+bbcnews,BBC News (UK),Mon Nov 23 15:55:47 +0000 2020,131,"""Our tiers need to be made tougher""
+
+Setting out England's updated rules, Boris Johnson says in Tier 1 people shoul… https://t.co/siV41x9khd",0.1779,0.078,0.922,0.0
+bbcnews,BBC News (UK),Mon Nov 23 15:54:25 +0000 2020,70,"“We’re working with the devolved administrations on a special time-limited Christmas dispensation""
+
+PM Boris Johnso… https://t.co/lL217cAE8R",0.4019,0.153,0.847,0.0
+bbcnews,BBC News (UK),Mon Nov 23 15:50:51 +0000 2020,264,"“National restrictions in England will end on 2 December, and they will not be renewed”
+
+Boris Johnson gives update… https://t.co/fBypNWr17G",0.0,0.0,1.0,0.0
+bbcnews,BBC News (UK),Mon Nov 23 15:49:24 +0000 2020,106,"“We’re not there yet, first we must get through winter”
+
+Prime Minister Boris Johnson thanks the nation for followi… https://t.co/BRsTBCqLLa",0.4404,0.132,0.868,0.0
+bbcnews,BBC News (UK),Mon Nov 23 15:45:58 +0000 2020,117,"""We can see a route out of the pandemic"" 
+
+Boris Johnson is setting out England's return to the ""three-tier system""… https://t.co/iwqwYCjkwN",0.0,0.0,1.0,0.0
+bbcnews,BBC News (UK),Mon Nov 23 15:43:38 +0000 2020,186,"Coronavirus cases in Liverpool brought down ""quite remarkably"" by mass testing, Health Secretary Matt Hancock says https://t.co/3x9sD8GphB",0.0,0.0,1.0,0.0
+bbcnews,BBC News (UK),Mon Nov 23 15:15:34 +0000 2020,155,Masks compulsory in Welsh secondary schools communal areas https://t.co/IQ6LCKLUyC,0.0,0.0,1.0,0.0
+bbcnews,BBC News (UK),Mon Nov 23 15:01:14 +0000 2020,0,"RT @BBCSport: A maximum of 4,000 fans are to be allowed at outdoor events in the lowest-risk areas when the national lockdown in England en…",0.0,0.0,1.0,0.0
+bbcnews,BBC News (UK),Mon Nov 23 14:57:46 +0000 2020,0,"RT @BBCBreakfast: ""I still re-live the trauma""
+In an exclusive interview with #BBCBreakfast, Darryn Frost, the man who stabbed the London B…",-0.6369,0.057,0.725,0.218
+bbcnews,BBC News (UK),Mon Nov 23 14:52:28 +0000 2020,0,"RT @BBCSport: ""Balotelli to Barnsley? Now that is one Mario story I don't believe.""
+
+Just imagine...
+
+More 👉 https://t.co/T3xnqJUgmV #bbcfo…",0.0,0.0,1.0,0.0
+bbcnews,BBC News (UK),Mon Nov 23 14:49:45 +0000 2020,181,What would you have said if someone had told you in January you’d have a vaccine ready for testing within nine mont… https://t.co/n0JN3hCleO,0.3612,0.102,0.898,0.0
+bbcnews,BBC News (UK),Mon Nov 23 14:30:01 +0000 2020,121,"Relaxing of coronavirus rules in Scotland 'not expected' at Hogmanay, Nicola Sturgeon says https://t.co/YUG711MgmZ",0.4939,0.198,0.802,0.0
+bbcnews,BBC News (UK),Mon Nov 23 14:15:50 +0000 2020,275,"""This is very good news... it really does make it highly likely that in the months that follow we're going to have… https://t.co/Ns21uIoGDf",0.4927,0.127,0.873,0.0
+bbcnews,BBC News (UK),Mon Nov 23 13:40:26 +0000 2020,0,"RT @BBCSport: Some sad news to bring you.
+
+Manly Warringah Sea Eagles player Keith Titmuss has died at the age of 20 after falling ill foll…",-0.8779,0.0,0.665,0.335
+bbcnews,BBC News (UK),Mon Nov 23 13:39:31 +0000 2020,0,"RT @BBCScotlandNews: Dr Christine Tait-Burkard, Infections Expert at the Roslin Institute, says the Oxford vaccine can be up to 90% effecti…",0.0,0.0,1.0,0.0
+bbcnews,BBC News (UK),Mon Nov 23 13:38:53 +0000 2020,175,"British Airways sells off thousands of items of surplus stock, including champagne flutes and bedding https://t.co/v6c2wMu4Uq",0.296,0.128,0.872,0.0
+bbcnews,BBC News (UK),Mon Nov 23 13:09:46 +0000 2020,140,"Covid rules are being 'disregarded' as Swale, Kent, becomes worst-hit area in England https://t.co/H2hNTZ9Pcf",-0.3818,0.0,0.833,0.167
+bbcnews,BBC News (UK),Mon Nov 23 13:04:56 +0000 2020,0,"RT @BBCPolitics: The word Brexit was used 80% less this year
+https://t.co/R7mzifW7ul",0.0,0.0,1.0,0.0
+bbcnews,BBC News (UK),Mon Nov 23 13:04:28 +0000 2020,0,"RT @BBCScotlandNews: Interim Chief Medical Officer @DrGregorSmith says the news on the Oxford vaccine is “very encouraging”, and says this…",0.0,0.0,1.0,0.0
+bbcnews,BBC News (UK),Mon Nov 23 13:02:40 +0000 2020,54,"On Wednesday, the government will announce how much it will spend on public services and we'll get an idea about ho… https://t.co/TVrxAshpCZ",0.0,0.0,1.0,0.0
+cbsnews,CBS News,Mon Nov 23 21:30:08 +0000 2020,2197,"This kids talk to their Ring doorbell camera because they know their dad, who is in the Army and deployed in the Mi… https://t.co/dsZ8jEFtto",0.0,0.0,1.0,0.0
+cbsnews,CBS News,Mon Nov 23 21:30:00 +0000 2020,50,Americans are scared and weary as COVID-19 cases soar. They're also resilient. https://t.co/ElbVSnI2f7,-0.6124,0.0,0.688,0.312
+cbsnews,CBS News,Mon Nov 23 21:10:00 +0000 2020,82,"Guitar Center files for bankruptcy, citing pandemic woes https://t.co/55kGB917vk",-0.4404,0.0,0.734,0.266
+cbsnews,CBS News,Mon Nov 23 20:49:42 +0000 2020,139,Rapper Bad Bunny tests positive for coronavirus https://t.co/fLuENPVMs4,0.0258,0.275,0.458,0.267
+cbsnews,CBS News,Mon Nov 23 20:29:35 +0000 2020,532,Biden taps Alejandro Mayorkas as first immigrant to lead Homeland Security https://t.co/mHcno8O44C,0.34,0.179,0.821,0.0
+cbsnews,CBS News,Mon Nov 23 20:09:47 +0000 2020,712,"After Pope Francis met with NBA players at the Vatican to discuss their social justice efforts, they handed him an… https://t.co/nWq3xX0JxW",0.5267,0.145,0.855,0.0
+cbsnews,CBS News,Mon Nov 23 19:49:51 +0000 2020,259,"Biden announces top positions in national security team, including secretary of state and homeland security secreta… https://t.co/8kuYPqItkT",0.6808,0.32,0.68,0.0
+cbsnews,CBS News,Mon Nov 23 19:30:14 +0000 2020,946,"Following a tradition that goes back to 1966, First Lady Melania Trump welcomed the White House Christmas Tree on M… https://t.co/WKYcMhc1FW",0.34,0.107,0.893,0.0
+cbsnews,CBS News,Mon Nov 23 19:14:50 +0000 2020,132,Is this house under a convent in Nazareth the boyhood home of Jesus? https://t.co/AIA7r7SCZs,0.0,0.0,1.0,0.0
+cbsnews,CBS News,Mon Nov 23 19:00:14 +0000 2020,344,"This woman with dementia couldn't remember how to play a song on the piano. But five minutes later, she wowed her f… https://t.co/lDwmvfxWys",0.765,0.239,0.761,0.0
+cbsnews,CBS News,Mon Nov 23 18:45:03 +0000 2020,97,Georgia is on everyone’s mind as the state heads into two January runoff elections that will determine which party… https://t.co/MT35b7ubj0,0.0,0.0,1.0,0.0
+cbsnews,CBS News,Mon Nov 23 18:29:38 +0000 2020,990,Pope Francis meets with NBA players to discuss their social justice efforts  https://t.co/KplPnZvGDy,0.5267,0.221,0.779,0.0
+cbsnews,CBS News,Mon Nov 23 18:16:03 +0000 2020,0,RT @camiloreports: NEW — The Trump admin. acquired at least 135 tracts of private land to build barriers along the US-Mexico border and pla…,0.0,0.0,1.0,0.0
+cbsnews,CBS News,Mon Nov 23 18:14:44 +0000 2020,34,"Italy's virus death toll tops 50,000 after reporting 630 new deaths in one day https://t.co/BQcEpk4Dso",-0.1531,0.163,0.644,0.193
+cbsnews,CBS News,Mon Nov 23 18:00:01 +0000 2020,307,Florida bar shuts down after hundreds of patrons gather without masks or social distancing https://t.co/waXYdytIds,0.0,0.0,1.0,0.0
+cbsnews,CBS News,Mon Nov 23 17:51:37 +0000 2020,0,"RT @finnygo: NEW: @JoeBiden announces key nominations and appointments, including Alejandro Mayorkas who is the first Latino and immigrant…",0.0,0.0,1.0,0.0
+cbsnews,CBS News,Mon Nov 23 17:51:28 +0000 2020,0,"RT @stevenportnoy: JUST IN: Biden transition staff says the incoming president will nominate Alejandro Mayorkas to be DHS Secretary. 
+
+Mayo…",0.0,0.0,1.0,0.0
+cbsnews,CBS News,Mon Nov 23 17:47:59 +0000 2020,0,"RT @CBSLifeofCrime: A woman says her ex-boyfriend was about to kill her in her own home. 
+
+She shoots &amp; kills him. Was it self-defense? Doe…",-0.8481,0.0,0.737,0.263
+cbsnews,CBS News,Mon Nov 23 17:44:31 +0000 2020,141,New report details Trump effort to seize thousands of acres of private land for border wall https://t.co/KD4Yq4oboU,0.0,0.0,1.0,0.0
+cbsnews,CBS News,Mon Nov 23 17:29:42 +0000 2020,74,"Bill Daley: Wells Fargo giving pandemic aid to ""hurting"" small businesses and meals to people in need https://t.co/d6vi8i9XHs",0.1779,0.199,0.679,0.122
+cnn,CNN,Mon Nov 23 19:00:10 +0000 2020,284,What is it like to have the second most powerful job in the world? All six living Vice Presidents give you the insi… https://t.co/EMwUndKt9b,0.6801,0.203,0.797,0.0
+cnn,CNN,Mon Nov 23 18:09:44 +0000 2020,296,We know spending the holidays on our own will keep our loved ones healthy. That doesn't make it any easier. https://t.co/NCxnzxbO7j,0.9001,0.414,0.586,0.0
+cnn,CNN,Mon Nov 23 17:30:37 +0000 2020,0,"RT @CNNBusiness: ""Paper money is slowly but surely going away... what will replace that are all forms of digital currencies."" PayPal presid…",0.5927,0.155,0.845,0.0
+cnn,CNN,Mon Nov 23 17:20:08 +0000 2020,219,"National lockdown restrictions in England will end next week as scheduled, British Prime Minister Boris Johnson say… https://t.co/exprsWSlQ8",0.0,0.0,1.0,0.0
+cnn,CNN,Mon Nov 23 17:10:05 +0000 2020,925,"Meet Xiao Qi Ji, the National Zoo's roly-poly 3-month-old giant panda cub. He was born through artificial inseminat… https://t.co/FQhUPzsUNy",0.0,0.0,1.0,0.0
+cnn,CNN,Mon Nov 23 17:00:03 +0000 2020,171,"British Airways' sale — which includes hot towels, blankets and slippers — will let buyers ""re-create a magical fly… https://t.co/x4tPcGUA42",0.0,0.0,1.0,0.0
+cnn,CNN,Mon Nov 23 16:55:07 +0000 2020,795,"""We are putting an end to women-free boardrooms at large companies,"" said Franziska Giffey, the minister for women… https://t.co/jMSrm6h0D1",0.0,0.0,1.0,0.0
+cnn,CNN,Mon Nov 23 16:50:04 +0000 2020,528,"Two employees of the fire department in Kansas City, Missouri, have died from Covid-19 in two days, a devastating d… https://t.co/jIPQ6rYSuT",-0.8834,0.0,0.636,0.364
+cnn,CNN,Mon Nov 23 16:30:13 +0000 2020,1887,Dolly Parton's $1 million donation to coronavirus research at Vanderbilt University helped fund Moderna's vaccine https://t.co/fMKN7e8n57,0.0,0.0,1.0,0.0
+cnn,CNN,Mon Nov 23 16:25:08 +0000 2020,1843,A man wearing Trump gear has been charged with misdemeanor simple assault after being seen on video deliberately ex… https://t.co/JakZeFAWy4,-0.6808,0.0,0.763,0.237
+cnn,CNN,Mon Nov 23 16:20:09 +0000 2020,1686,More Republicans are losing patience with Trump's legal absurdities | Analysis by @StCollinson… https://t.co/nFbGAbAICM,-0.3321,0.092,0.733,0.175
+cnn,CNN,Mon Nov 23 16:11:42 +0000 2020,906,"Vegans may be at higher risk for bone fractures, study finds https://t.co/kCiQiR5090 https://t.co/RmcY5UQPAa",-0.2732,0.0,0.851,0.149
+cnn,CNN,Mon Nov 23 15:55:18 +0000 2020,741,Tyler Perry's Thanksgiving food giveaway quickly ran out of supplies as an unexpected number of people showed up https://t.co/dX0heBVmq9,0.0772,0.067,0.933,0.0
+cnn,CNN,Mon Nov 23 15:40:07 +0000 2020,608,"The US Centers for Disease Control and Prevention has upped its warning on cruise ships, now advising that ""all peo… https://t.co/QvcsURw2QO",-0.34,0.0,0.893,0.107
+cnn,CNN,Mon Nov 23 15:30:05 +0000 2020,357,Toronto has begun a lockdown — the Canadian city's second since the pandemic began — to slow its surging Covid-19 c… https://t.co/DHK54vFNnr,0.0,0.0,1.0,0.0
+cnn,CNN,Mon Nov 23 15:22:32 +0000 2020,1771,"“It’s so frustrating to watch this,” Cindy McCain says of GOP lawmakers not publicly acknowledging the election res… https://t.co/8Hl2mDghuV",-0.4927,0.0,0.849,0.151
+cnn,CNN,Mon Nov 23 15:11:04 +0000 2020,260,"""It quickly became apparent that 2020 is not a year that could neatly be accommodated in one single 'word of the ye… https://t.co/2qMXXZWldA",0.34,0.098,0.902,0.0
+cnn,CNN,Mon Nov 23 15:06:06 +0000 2020,476,Warnings from public health officials not to travel for Thanksgiving didn’t stop passengers from packing US airport… https://t.co/GRmrMWZI5m,-0.5267,0.0,0.784,0.216
+cnn,CNN,Mon Nov 23 14:53:59 +0000 2020,608,US Surgeon General Dr. Jerome Adams warns that all Americans — even at the White House — should follow the CDC's gu… https://t.co/TPKEUQtstf,-0.1027,0.0,0.94,0.06
+cnn,CNN,Mon Nov 23 14:40:03 +0000 2020,5238,A man wearing Trump gear has been charged with misdemeanor simple assault after being seen on video deliberately ex… https://t.co/1g0rsOrfCr,-0.6808,0.0,0.763,0.237
+foxnews,Fox News,Sun Nov 22 11:15:05 +0000 2020,2878,Georgia recount formally requested by Trump campaign https://t.co/4LpQ8Dmrk6,0.0,0.0,1.0,0.0
+foxnews,Fox News,Sun Nov 22 02:41:14 +0000 2020,148,https://t.co/cxUvyMe7Ed,0.0,0.0,1.0,0.0
+foxnews,Fox News,Sun Nov 22 02:26:28 +0000 2020,123,https://t.co/VVVRk5xiyx,0.0,0.0,1.0,0.0
+foxnews,Fox News,Sun Nov 22 01:39:23 +0000 2020,276,https://t.co/PLFYDu9Th3,0.0,0.0,1.0,0.0
+foxnews,Fox News,Sun Nov 22 01:03:11 +0000 2020,98,https://t.co/Ss0APszgfe,0.0,0.0,1.0,0.0
+foxnews,Fox News,Sun Nov 22 00:44:38 +0000 2020,476,https://t.co/hEheEZiVBj,0.0,0.0,1.0,0.0
+foxnews,Fox News,Sun Nov 22 00:35:56 +0000 2020,6003,BREAKING: https://t.co/eiWLRwxQOt,0.0,0.0,1.0,0.0
+foxnews,Fox News,Sat Nov 21 18:47:46 +0000 2020,402,Colorado's Bear Creek Fire contained after hundreds forced to evacuate https://t.co/pKpPFW67bO,-0.6597,0.0,0.625,0.375
+foxnews,Fox News,Sat Nov 21 17:22:06 +0000 2020,3522,"Ben Carson was 'desperately sick' with COVID, is now 'out of the woods' https://t.co/CWr7UIdVAq",-0.7096,0.0,0.67,0.33
+foxnews,Fox News,Sat Nov 21 16:23:17 +0000 2020,231,'Definition of a serial killer:' Police link murder suspect to string of homicides https://t.co/Uql3cQxWJB,-0.9042,0.0,0.495,0.505
+foxnews,Fox News,Sat Nov 21 14:55:04 +0000 2020,341,Florida police release body-cam footage of shooting; suspect had self-inflicted gunshot wound https://t.co/0IhFyLdEB9,-0.296,0.0,0.845,0.155
+foxnews,Fox News,Sat Nov 21 11:52:45 +0000 2020,1930,"Georgia Gov. Brian Kemp certifies election results, calls for another hand recount https://t.co/sFMVE1QYiL",0.4939,0.211,0.789,0.0
+foxnews,Fox News,Sat Nov 21 02:06:13 +0000 2020,263,Los Angeles could issue stay-at-home order by Sunday: official https://t.co/lWLnuJowwP,0.0,0.0,1.0,0.0
+foxnews,Fox News,Sat Nov 21 02:04:54 +0000 2020,778,New bill aims to ban Americans from investing in all Chinese firms on Entity List https://t.co/2TjffSEURw,-0.5574,0.0,0.806,0.194
+foxnews,Fox News,Sat Nov 21 02:03:51 +0000 2020,560,FDA will consider Pfizer vaccine for emergency use on December 10th https://t.co/uHVFi0IFxx,-0.3818,0.0,0.809,0.191
+foxnews,Fox News,Sat Nov 21 02:01:37 +0000 2020,1578,Georgia's Floyd County fires election director after finding uncounted ballots https://t.co/iNjH7mjQmF,0.0,0.0,1.0,0.0
+foxnews,Fox News,Sat Nov 21 01:59:38 +0000 2020,13983,"Trump takes credit for Pfizer vaccine development, says Americans wouldn’t have one yet without his leadership https://t.co/nN7H2kzlzh",0.3818,0.14,0.86,0.0
+foxnews,Fox News,Fri Nov 20 23:44:28 +0000 2020,1925,Donald Trump Jr. tests positive for COVID-19 https://t.co/gCgl5np0g4,0.5574,0.34,0.66,0.0
+foxnews,Fox News,Fri Nov 20 23:09:36 +0000 2020,2081,Georgia certifies Joe Biden victory in 2020 presidential election https://t.co/fJwTDKGNG1,0.0,0.0,1.0,0.0
+foxnews,Fox News,Fri Nov 20 23:06:16 +0000 2020,390,"Squad member Rashida Tlaib, accused of being anti-Semitic, to speak on panel about anti-Semitism https://t.co/CRRRIkXLl9",-0.296,0.0,0.864,0.136
+nytimes,The New York Times,Mon Nov 23 19:55:01 +0000 2020,0,"RT @katekelly: CEO letter demanding a swift transition, now public, drew more than 160 signatories, among them Larry Fink of @blackrock, @d…",-0.0258,0.076,0.844,0.08
+nytimes,The New York Times,Mon Nov 23 19:45:03 +0000 2020,0,"RT @DavidWaldstein: Steve Cohen has a sense of humor, likes mustard and sauerkraut on his hot dogs and seems to enjoy interacting with fans…",0.7964,0.278,0.722,0.0
+nytimes,The New York Times,Mon Nov 23 19:30:12 +0000 2020,514,"Margaret Thatcher, Britain’s first female prime minister, is getting a sympathetic portrayal in Netflix’s “The Crow… https://t.co/8QxQj8ZXAS",0.5106,0.171,0.829,0.0
+nytimes,The New York Times,Mon Nov 23 19:25:04 +0000 2020,190,"A surge in coronavirus infections is straining an already underfunded health care system in Bulgaria, where there's… https://t.co/VIruPpoo5X",0.2263,0.149,0.744,0.107
+nytimes,The New York Times,Mon Nov 23 19:15:09 +0000 2020,263,Gov. Gavin Newsom of California and his family will quarantine for two weeks after three of his children were possi… https://t.co/GhAul73fZn,0.0,0.0,1.0,0.0
+nytimes,The New York Times,Mon Nov 23 19:10:03 +0000 2020,4774,General Motors has dropped its support for a Trump administration lawsuit over California’s fuel economy rules and… https://t.co/jWGNFe4zyn,0.2023,0.131,0.777,0.092
+nytimes,The New York Times,Mon Nov 23 19:00:15 +0000 2020,1029,"Four years ago, Wanda Dench accidentally invited Jamal Hinton over for Thanksgiving. Thus began a holiday tradition… https://t.co/Tu4jEXD1zw",0.0772,0.128,0.758,0.114
+nytimes,The New York Times,Mon Nov 23 18:50:04 +0000 2020,205,"Gov. Andrew Cuomo of New York announced new restrictions in parts of Upper Manhattan, Staten Island, Long Island an… https://t.co/p0KW8Mt6xT",0.0,0.0,1.0,0.0
+nytimes,The New York Times,Mon Nov 23 18:45:03 +0000 2020,286,The New York Attorney General said in a lawsuit that the Roman Catholic Diocese of Buffalo and two of its former to… https://t.co/clK45BHcO9,-0.2263,0.0,0.921,0.079
+nytimes,The New York Times,Mon Nov 23 18:30:15 +0000 2020,1453,A meeting between Pope Francis and five NBA players on Monday at the Vatican was an opportunity to expand global aw… https://t.co/T2YcwJLXgg,0.6249,0.203,0.797,0.0
+nytimes,The New York Times,Mon Nov 23 18:20:03 +0000 2020,147,"Gyms, stores and hair salons will be allowed to reopen in England next week, Prime Minister Boris Johnson said, but… https://t.co/ebqQzgCj3D",0.0,0.0,1.0,0.0
+nytimes,The New York Times,Mon Nov 23 18:05:20 +0000 2020,182,And some worry that Gates and his $50 billion foundation have too much influence in global public health and are to… https://t.co/NXJJh9txJU,-0.4404,0.0,0.879,0.121
+nytimes,The New York Times,Mon Nov 23 18:05:20 +0000 2020,135,"If the initiative succeeds, it will affirm strategies Gates promotes in his philanthropic work — strategies that in… https://t.co/pS7zGS7fjF",0.6808,0.248,0.752,0.0
+nytimes,The New York Times,Mon Nov 23 18:05:19 +0000 2020,99,Gates has brought to the effort his status as one of the most powerful — and provocative — private players in globa… https://t.co/ziCPiHXFQE,0.4754,0.123,0.877,0.0
+nytimes,The New York Times,Mon Nov 23 18:05:19 +0000 2020,157,"So far, more than 150 countries have signed up for the global vaccine plan. Three companies have promised hundreds… https://t.co/md2o2NhTVL",0.3612,0.116,0.884,0.0
+nytimes,The New York Times,Mon Nov 23 18:05:18 +0000 2020,2292,"Bill Gates is working with the WHO, global nonprofits and drugmakers on an $11 billion effort to get coronavirus va… https://t.co/p961cUrI13",0.0,0.0,1.0,0.0
+nytimes,The New York Times,Mon Nov 23 18:03:58 +0000 2020,0,RT @nytopinion: Join @wajahatali to discuss his failed attempts to reach out to Trump supporters https://t.co/RObGe84eS5,0.2263,0.288,0.558,0.153
+nytimes,The New York Times,Mon Nov 23 18:00:14 +0000 2020,190,"Here are the 10 Best Books of 2020, selected by the editors of The New York Times Book Review. https://t.co/Q7JUFhOPdM",0.6369,0.181,0.819,0.0
+nytimes,The New York Times,Mon Nov 23 17:55:06 +0000 2020,0,RT @liamstack: NEW: @NewYorkStateAG sued @BuffaloDiocese for a years-long cover-up of child sex abuse in violation of post-2002 church poli…,-0.8625,0.0,0.639,0.361
+nytimes,The New York Times,Mon Nov 23 17:45:03 +0000 2020,254,More travelers were screened at airport security checkpoints in the U.S. on Sunday than on any day since the pandem… https://t.co/HprVJ754zu,0.34,0.107,0.893,0.0
+bbcnews,BBC News (UK),Mon Nov 23 12:48:17 +0000 2020,0,RT @BBCScotlandNews: .@NicolaSturgeon says progress is being made between the governments of the UK for a common position for Christmas eas…,0.4215,0.123,0.877,0.0
+bbcnews,BBC News (UK),Mon Nov 23 12:45:16 +0000 2020,0,"RT @BBCBusiness: Gyms 🏋️
+
+Non-essential shops 🛍️
+
+Both have been closed in England since 5 November, but are expected to reopen in all area…",0.0,0.0,1.0,0.0
+bbcnews,BBC News (UK),Mon Nov 23 12:41:33 +0000 2020,0,"RT @BBCScotlandNews: .@NicolaSturgeon confirms East Lothian will move from level 3 to level 2 from tomorrow, but Midlothian may not and may…",0.0,0.0,1.0,0.0
+bbcnews,BBC News (UK),Mon Nov 23 12:31:06 +0000 2020,0,"RT @BBCPolitics: Ministers have duty to stop bullying, says Boris Johnson
+
+On Friday the PM overruled his own adviser on ministerial standa…",-0.7269,0.0,0.766,0.234
+bbcnews,BBC News (UK),Mon Nov 23 12:30:24 +0000 2020,1929,"As Oxford/AstraZeneca becomes the latest Covid vaccine to publish trial results, how does it compare to others?… https://t.co/VR4aybUOaW",0.0,0.0,1.0,0.0
+bbcnews,BBC News (UK),Mon Nov 23 12:24:01 +0000 2020,0,"RT @BBCSport: What can be decided in the fourth round of #ChampionsLeague group games?
+
+Here's all you need to know 👉https://t.co/qtkyxZisR…",0.0,0.0,1.0,0.0
+bbcnews,BBC News (UK),Mon Nov 23 12:18:27 +0000 2020,168,"Bike from Banksy's hula-hooping girl replaced in Nottingham 🚲
+https://t.co/ud5CZAi9jv",0.0,0.0,1.0,0.0
+bbcnews,BBC News (UK),Mon Nov 23 11:56:44 +0000 2020,0,RT @BBCNews: Tributes to D-Day veteran who 'taught peace' to children https://t.co/qZ4JnRIrma,0.5423,0.241,0.759,0.0
+bbcnews,BBC News (UK),Mon Nov 23 11:27:38 +0000 2020,0,"RT @BBCPolitics: From January, goods moving between the UK and EU will be subject to new customs controls, but some in the industry fear di…",-0.6486,0.0,0.848,0.152
+bbcnews,BBC News (UK),Mon Nov 23 11:27:28 +0000 2020,0,"RT @BBCSport: ""Liverpool remain the team to beat in the Premier League title race.""
+
+What do you think? Are they?
+
+👉 https://t.co/fLUlNBOT8…",0.0,0.0,1.0,0.0
+bbcnews,BBC News (UK),Mon Nov 23 11:23:03 +0000 2020,380,How did they develop the Oxford Covid-19 vaccine so quickly? https://t.co/tZhxMAUtgM,0.0,0.0,1.0,0.0
+bbcnews,BBC News (UK),Mon Nov 23 10:53:07 +0000 2020,0,"RT @BBCBreakfast: Gyms and non-essential shops in all areas are expected to be allowed to reopen when England's lockdown ends.
+Boris Johnso…",0.0,0.0,1.0,0.0
+bbcnews,BBC News (UK),Mon Nov 23 10:52:32 +0000 2020,0,"RT @BBCSport: Arsenal and Leeds have both condemned the ""vile"" abuse directed at Nicolas Pepe and Ezgjan Alioski after Sunday's Premier Lea…",-0.9042,0.0,0.629,0.371
+bbcnews,BBC News (UK),Mon Nov 23 10:28:25 +0000 2020,64,Liverpool manager Jurgen Klopp urges Sky &amp; BT to fix Premier League broadcast schedule https://t.co/UnuBaOCySf,0.0,0.0,1.0,0.0
+bbcnews,BBC News (UK),Mon Nov 23 09:56:25 +0000 2020,0,"RT @BBCPolitics: Government promises all care home residents will be able to hug and touch relatives again by 2021
+
+https://t.co/hfmg2ZZlfb",0.836,0.344,0.656,0.0
+bbcnews,BBC News (UK),Mon Nov 23 09:55:07 +0000 2020,434,Claudia Winkleman replaces Graham Norton on @BBCRadio2 Saturday mornings https://t.co/ZDDRToh9sm,0.0,0.0,1.0,0.0
+bbcnews,BBC News (UK),Mon Nov 23 09:17:54 +0000 2020,489,"Oxford vaccine trial results are ""incredibly exciting news"", PM Boris Johnson says
+
+Follow latest reaction &amp; analys… https://t.co/NFZZHrjwgA",0.5413,0.17,0.83,0.0
+bbcnews,BBC News (UK),Mon Nov 23 08:57:24 +0000 2020,0,"RT @BBCBreakfast: Steve McQueen’s #SmallAxe series looks at the past experiences of London’s West Indian community.
+Actor John Boyega stars…",0.0,0.0,1.0,0.0
+bbcnews,BBC News (UK),Mon Nov 23 08:32:42 +0000 2020,0,"RT @BBCBreakfast: ""70% is better than the flu vaccine is in most years""
+Prof Andrew Pollard from the Oxford Vaccine Group explains on #BBCB…",0.0772,0.105,0.8,0.095
+bbcnews,BBC News (UK),Mon Nov 23 08:17:01 +0000 2020,0,"RT @BBCBreakfast: ""I still re-live the trauma""
+In an exclusive interview with #BBCBreakfast, Darryn Frost, the man who stabbed the London B…",-0.6369,0.057,0.725,0.218
+cbsnews,CBS News,Mon Nov 23 17:15:00 +0000 2020,3086,Grandma who accidentally invited teen she didn't know to Thanksgiving dinner celebrates fifth holiday with him afte… https://t.co/xIlPKakMGD,0.6124,0.269,0.63,0.101
+cbsnews,CBS News,Mon Nov 23 17:12:35 +0000 2020,0,RT @MikevWUSA: NOW &gt;&gt; GSA Body Bag protest — the group @RefuseFascism just had a silent procession outside the General Services Administrat…,-0.25,0.0,0.913,0.087
+cbsnews,CBS News,Mon Nov 23 17:00:25 +0000 2020,147,"Cuomo says New York's low COVID positivity rate of 3% ""can change in an instant"" if people don't remain careful
+
+""I… https://t.co/GqnMJ9wiDq",0.1916,0.128,0.735,0.137
+cbsnews,CBS News,Mon Nov 23 17:00:01 +0000 2020,63,Pope Francis says he understands COVID sufferers' anguish thanks to his own brush with death https://t.co/MiELJRzuZ7,-0.8519,0.111,0.46,0.429
+cbsnews,CBS News,Mon Nov 23 16:53:48 +0000 2020,0,"RT @edokeefe: Per ⁦@CBSNews⁩ UN reporter ⁦@PamelaFalk⁩: LTG was a foreign service officer during Reagan admin, an ambassador and Asst Sec o…",0.0,0.0,1.0,0.0
+cbsnews,CBS News,Mon Nov 23 16:53:10 +0000 2020,87,WATCH LIVE: New York Gov. Andrew Cuomo holds press conference on COVID-19 as the state's cases rise… https://t.co/eFK2xz6t8R,0.0,0.0,1.0,0.0
+cbsnews,CBS News,Mon Nov 23 16:44:57 +0000 2020,23,ICYMI: A look back at Sunday's 60 Minutes https://t.co/l1h4PP7eRp,0.0,0.0,1.0,0.0
+cbsnews,CBS News,Mon Nov 23 16:29:37 +0000 2020,46,Coast Guard searches for crew after 82-foot fishing boat sinks in Atlantic https://t.co/sTGTlDfNvS,0.0,0.0,1.0,0.0
+cbsnews,CBS News,Mon Nov 23 16:15:00 +0000 2020,52,"Greenhouse gas levels at new high despite hopeful ""blip"" from anti-COVID lockdowns https://t.co/TZ7U9QoZ7s",-0.4023,0.0,0.816,0.184
+cbsnews,CBS News,Mon Nov 23 16:00:00 +0000 2020,75,Temperatures in the Arctic are astonishingly warmer than they should be https://t.co/l8r31TOpFW,0.296,0.167,0.833,0.0
+cbsnews,CBS News,Mon Nov 23 15:54:15 +0000 2020,46,WATCH LIVE: New York City Bill de Blasio holds a press conference on the city's COVID-19 response… https://t.co/zFgpXIW8xC,0.0,0.0,1.0,0.0
+cbsnews,CBS News,Mon Nov 23 15:44:52 +0000 2020,67,"Downsized Thanksgiving plans are putting small turkeys in high demand, which some farms can't meet https://t.co/lhBJHS3VgU",-0.128,0.0,0.909,0.091
+cbsnews,CBS News,Mon Nov 23 15:30:00 +0000 2020,103,"Nevada governor issues three-week ""statewide pause"" as coronavirus cases rise https://t.co/5b5p2FV6Gi",0.0,0.0,1.0,0.0
+cbsnews,CBS News,Mon Nov 23 15:14:34 +0000 2020,518,Biden expected to pick longtime diplomat Linda Thomas-Greenfield as U.S. ambassador to U.N. https://t.co/4nHiaL2ZdQ,0.0,0.0,1.0,0.0
+cbsnews,CBS News,Mon Nov 23 15:00:05 +0000 2020,252,Biden to appoint Jake Sullivan as national security adviser https://t.co/rQdN4oyOo3,0.34,0.211,0.789,0.0
+cbsnews,CBS News,Mon Nov 23 14:45:00 +0000 2020,351,"Sturgis Motorcycle Rally in South Dakota ignited COVID-19 outbreak in Minnesota, study finds https://t.co/GmenElDsHE",0.0,0.0,1.0,0.0
+cbsnews,CBS News,Mon Nov 23 14:29:38 +0000 2020,237,Taylor Swift takes home third straight artist of the year award at 2020 AMAs https://t.co/B4VaPJgmmk,0.7351,0.375,0.625,0.0
+cbsnews,CBS News,Mon Nov 23 14:28:25 +0000 2020,0,RT @finnygo: .@CBSNews confirms that @JoeBiden will name Jake Sullivan as his national security advisor per sources to @margbrennan. Sulliv…,0.34,0.112,0.888,0.0
+cbsnews,CBS News,Mon Nov 23 14:28:16 +0000 2020,0,"RT @Grace_Segers: With the presidential race (mostly) in the rearview mirror, all eyes are on the Georgia runoff elections. Our latest for…",0.0,0.0,1.0,0.0
+cbsnews,CBS News,Mon Nov 23 14:27:58 +0000 2020,0,"RT @CBSThisMorning: Michigan and Pennsylvania are voting to certify their election results today, declaring President-elect Joe Biden as th…",0.0,0.0,1.0,0.0
+cnn,CNN,Mon Nov 23 14:30:06 +0000 2020,251,"As the pandemic has transformed Zoom into an essential tool for schools, church groups, weddings, and the cabinet o… https://t.co/1rMDrjQJbA",0.0,0.0,1.0,0.0
+cnn,CNN,Mon Nov 23 14:20:06 +0000 2020,701,Taylor Swift took the crown from Taylor Swift at the American Music Awards and had quite the explanation for not be… https://t.co/P9q5WNZmNn,0.6808,0.258,0.742,0.0
+cnn,CNN,Mon Nov 23 14:10:04 +0000 2020,961,"Since Gov. Ron DeSantis reopened Florida in late September, the number of reported Covid-19 cases per week in the s… https://t.co/T2OvFuKevI",0.0772,0.061,0.939,0.0
+cnn,CNN,Mon Nov 23 14:00:09 +0000 2020,331,"In the past two decades, more Latino students have been going to college. Now the coronavirus pandemic is forcing m… https://t.co/5688TxWepn",0.0,0.0,1.0,0.0
+cnn,CNN,Mon Nov 23 13:45:08 +0000 2020,754,"All eyes are on Michigan on Monday, one of five key states hitting deadlines in the coming days to officially confi… https://t.co/KWfTtOxpqM",0.0,0.0,1.0,0.0
+cnn,CNN,Mon Nov 23 13:30:07 +0000 2020,113,"📩 Sign up to get the facts on coronavirus delivered to your inbox daily: https://t.co/4fKkMkbodP
+
+Here's everything… https://t.co/NKvLJohroQ",0.0,0.0,1.0,0.0
+cnn,CNN,Mon Nov 23 13:15:04 +0000 2020,817,"Two employees of the fire department in Kansas City, Missouri, have died from Covid-19 in two days, a devastating d… https://t.co/bdmQ5nV7O3",-0.8834,0.0,0.636,0.364
+cnn,CNN,Mon Nov 23 13:00:16 +0000 2020,222,"From surging case numbers to record hospitalizations, the US is grappling with what experts long warned could be th… https://t.co/MRMNIB1ucq",-0.2732,0.0,0.9,0.1
+cnn,CNN,Mon Nov 23 12:50:38 +0000 2020,1909,This 10-year-old is on a mission to help feed thousands of people across Texas https://t.co/HWAY9F2v2o,0.4019,0.162,0.838,0.0
+cnn,CNN,Mon Nov 23 12:30:13 +0000 2020,287,Outdoor dining in Los Angeles County will be shut down as the five-day average of new Covid-19 infections has passe… https://t.co/KcFsyw1YUb,0.0,0.0,1.0,0.0
+cnn,CNN,Mon Nov 23 12:14:04 +0000 2020,367,"After Tropical Storm Eta swept across northern Florida earlier this month, a beachgoer made a discovery while walki… https://t.co/BPKilLvO6A",0.0,0.0,1.0,0.0
+cnn,CNN,Mon Nov 23 12:00:14 +0000 2020,2033,More Republicans are losing patience with Trump's legal absurdities | Analysis by @StCollinson… https://t.co/Duss3oDmxj,-0.3321,0.092,0.733,0.175
+cnn,CNN,Mon Nov 23 11:43:06 +0000 2020,1237,"Vegans may be at higher risk for bone fractures, study finds https://t.co/1kNNADyjt5 https://t.co/1TpUPxJvy0",-0.2732,0.0,0.851,0.149
+cnn,CNN,Mon Nov 23 11:31:06 +0000 2020,935,"Pat Quinn, one of the co-founders of the viral ALS Ice Bucket Challenge, died Sunday at the age of 37, according to… https://t.co/JqpTiKcW1U",-0.5106,0.05,0.811,0.139
+cnn,CNN,Mon Nov 23 11:22:05 +0000 2020,380,Drugmaker AstraZeneca announced on Monday that its experimental coronavirus vaccine has shown an average efficacy o… https://t.co/r7188or4T5,0.0,0.0,1.0,0.0
+cnn,CNN,Mon Nov 23 11:15:08 +0000 2020,197,"Part of a Tennessee law banning abortions based on a prenatal diagnosis of Down syndrome or a fetus' race or sex, c… https://t.co/ASmdcmarj2",0.0,0.0,1.0,0.0
+cnn,CNN,Mon Nov 23 11:03:54 +0000 2020,283,See who won at the 2020 #AMAs https://t.co/iaTI9zUwlI,0.5719,0.346,0.654,0.0
+cnn,CNN,Mon Nov 23 11:00:12 +0000 2020,783,"No one expected him home for the holidays -- but after 118 days in the hospital with Covid-19, Darell Slater will s… https://t.co/7R47Isrkqd",0.0516,0.074,0.861,0.066
+cnn,CNN,Mon Nov 23 10:46:05 +0000 2020,1152,Macy's honors New York City's essential workers with holiday window displays https://t.co/e8I4kTERJV https://t.co/BRNJrJzZCR,0.7184,0.353,0.647,0.0
+cnn,CNN,Mon Nov 23 10:31:04 +0000 2020,269,"""A number we have not seen in over a decade—300 homicides in a year.""
+
+Los Angeles has reached 300 homicides for th… https://t.co/qOgUsYnrWT",0.1779,0.114,0.886,0.0
+foxnews,Fox News,Fri Nov 20 22:37:54 +0000 2020,251,What to expect at Fox Nation's Patriot Awards https://t.co/7jAv0jrGeF,0.4588,0.273,0.727,0.0
+foxnews,Fox News,Fri Nov 20 22:29:35 +0000 2020,148,Police respond to 'active situation' at Wisconsin mall https://t.co/VH3Vj2jgZl,0.4019,0.252,0.748,0.0
+foxnews,Fox News,Fri Nov 20 21:10:57 +0000 2020,261,Biden transition official asks progressives to wait 'before they pass judgment’ https://t.co/Jb0SvG1slg,0.0,0.0,1.0,0.0
+foxnews,Fox News,Fri Nov 20 21:09:49 +0000 2020,396,Georgia's military voters seen as pivotal bloc in runoffs that will decide Senate control https://t.co/5DK0LjEvYQ,0.0,0.0,1.0,0.0
+foxnews,Fox News,Fri Nov 20 20:15:04 +0000 2020,452,BLM pressures Democrats to embrace bill described as 'roadmap for prison abolition' https://t.co/c2HXbletHX,-0.5106,0.128,0.559,0.313
+foxnews,Fox News,Fri Nov 20 19:39:43 +0000 2020,593,WATCH LIVE: Trump to roll out new rules on lowering drug costs amid ongoing election battle https://t.co/IGfGsMI34O,-0.5574,0.0,0.765,0.235
+foxnews,Fox News,Fri Nov 20 18:52:12 +0000 2020,1133,"McEnany rips 'inexcusable' 2016 transition, says GSA certification for Biden will come 'at the right moment'
+https://t.co/PxDeqvbRrZ",0.0,0.0,1.0,0.0
+foxnews,Fox News,Fri Nov 20 18:09:58 +0000 2020,257,"South Carolina pharma firm to provide single-dose COVID vaccine syringes
+https://t.co/1bevHTFrdk",0.0,0.0,1.0,0.0
+foxnews,Fox News,Fri Nov 20 18:08:53 +0000 2020,3188,"McEnany dismisses reporters shouting questions during briefing: 'I don't call on activists'
+https://t.co/YNm7j25ERT",0.0,0.0,1.0,0.0
+foxnews,Fox News,Fri Nov 20 17:19:09 +0000 2020,446,"WATCH NOW: Press Secretary Kayleigh McEnany holds first news conference since 2020 election
+https://t.co/DLo11x59Nx",0.0,0.0,1.0,0.0
+foxnews,Fox News,Fri Nov 20 16:13:33 +0000 2020,880,"Senate seat of longtime GOP lawmaker eyed by Lara Trump, Mark Meadows
+https://t.co/PO16phEfW4",0.0,0.0,1.0,0.0
+foxnews,Fox News,Fri Nov 20 14:34:25 +0000 2020,331,"Ga. Senate hopeful Raphael Warnock's support for Jeremiah Wright comes under new scrutiny
+https://t.co/wZKh5Za48G",0.7184,0.333,0.667,0.0
+foxnews,Fox News,Fri Nov 20 14:33:28 +0000 2020,2234,"CDC director says schools are among 'safest places' kids can be
+https://t.co/W18VP0oQWA",0.4019,0.197,0.803,0.0
+foxnews,Fox News,Fri Nov 20 14:15:59 +0000 2020,396,"Colorado authorities capture convicted felon nicknamed ‘Psycho’ after 24-hour manhunt
+https://t.co/zP65OXsnyF",0.0,0.0,1.0,0.0
+foxnews,Fox News,Fri Nov 20 12:39:00 +0000 2020,393,"Pennsylvania could be wearing masks ‘to the end of 2021,’ health secretary says
+https://t.co/uw1zgknvUA",0.0,0.0,1.0,0.0
+foxnews,Fox News,Fri Nov 20 12:01:15 +0000 2020,3392,"Biden turns 78, will be oldest US president
+https://t.co/kyY7oLQZdP",0.0,0.0,1.0,0.0
+foxnews,Fox News,Fri Nov 20 02:07:27 +0000 2020,686,Biden transition team member urged Dems to use Amy Coney Barrett's faith against her https://t.co/yTtHqv76Jx,0.4215,0.167,0.833,0.0
+foxnews,Fox News,Fri Nov 20 02:02:46 +0000 2020,326,AOC and squad rally outside DNC to pressure Biden into embracing Green New Deal https://t.co/AwHgS0TVOy,-0.296,0.0,0.864,0.136
+foxnews,Fox News,Fri Nov 20 01:54:42 +0000 2020,7258,"Joe Biden wins presidential race in Georgia, defeating Trump https://t.co/hoQQUw7eDv",0.2732,0.259,0.559,0.182
+foxnews,Fox News,Fri Nov 20 01:53:50 +0000 2020,573,Gov. Cuomo faces scrutiny over COVID book deal as residents suffer financial impacts of lockdowns https://t.co/mVq1IMenKX,-0.5423,0.0,0.811,0.189
+nytimes,The New York Times,Mon Nov 23 17:30:08 +0000 2020,1715,"“Every time somebody disagrees with me it’s not ’verbal violence,’” said Loretta Ross, a professor who’s challengin… https://t.co/nL8FTnt8E2",-0.3182,0.0,0.881,0.119
+nytimes,The New York Times,Mon Nov 23 17:20:06 +0000 2020,257,Republican Senate candidates in Georgia are spending tens of millions of dollars on an almost entirely negative ad… https://t.co/NSjedzZpmD,-0.574,0.0,0.829,0.171
+nytimes,The New York Times,Mon Nov 23 17:15:17 +0000 2020,6417,Breaking News: President-elect Joe Biden plans to nominate Alejandro Mayorkas to be the first Latino to run Homelan… https://t.co/J0HnX7Gxom,0.0,0.0,1.0,0.0
+nytimes,The New York Times,Mon Nov 23 17:10:04 +0000 2020,283,"The certifications of the vote totals in Michigan, Pennsylvania and elsewhere are the next major steps in formalizi… https://t.co/bAl7xQ1SoJ",0.0,0.0,1.0,0.0
+nytimes,The New York Times,Mon Nov 23 17:00:23 +0000 2020,138,"In Opinion
+
+Is there a safe way to celebrate Thanksgiving this year? We asked four Covid-19 experts to tell us thei… https://t.co/FUakygSMLW",0.765,0.248,0.752,0.0
+nytimes,The New York Times,Mon Nov 23 16:45:04 +0000 2020,288,Nail salons in New York City have seen a steep decline in customers since reopening in July. Many are now on the ve… https://t.co/piIlJlbPvJ,0.0,0.0,1.0,0.0
+nytimes,The New York Times,Mon Nov 23 16:43:41 +0000 2020,0,"RT @nytimesbooks: Here are the 10 Best Books of 2020, selected by the editors of The New York Times Book Review. https://t.co/iqlflBctIi",0.6369,0.167,0.833,0.0
+nytimes,The New York Times,Mon Nov 23 16:35:04 +0000 2020,0,"RT @nytimesarts: Taylor Swift's catalog came up (again), Dua Lipa levitated and hip-hop got more airtime. Here are 5 memorable moments from…",0.0,0.0,1.0,0.0
+nytimes,The New York Times,Mon Nov 23 16:30:18 +0000 2020,289,“I might have to FaceTime with my dad so he can reteach me how to use a razor.” Ski patrollers are known for their… https://t.co/vlrKR13kwt,0.0,0.0,1.0,0.0
+nytimes,The New York Times,Mon Nov 23 16:25:08 +0000 2020,1508,"The National Zoo’s baby panda cub now has a name. Welcome Xiao Qi Ji, a Mandarin phrase that translates to “little… https://t.co/ngdQRYiFBR",0.4588,0.125,0.875,0.0
+nytimes,The New York Times,Mon Nov 23 16:20:09 +0000 2020,0,"RT @mccanner: Wanda and Jamal held a small dinner on Friday, where they gave thanks and talked about their friendship. 
+
+During their meal,…",0.7003,0.216,0.784,0.0
+nytimes,The New York Times,Mon Nov 23 16:15:21 +0000 2020,0,"RT @nkulish: Valentine's night at Bill Gates private office, his foundation's global health team gathered to look at the Covid-19 models. F…",0.0,0.0,1.0,0.0
+nytimes,The New York Times,Mon Nov 23 16:00:07 +0000 2020,344,"The trial of the former French president Nicolas Sarkozy, who faces charges of corruption and influence-peddling, o… https://t.co/AKqOnCMaAf",-0.2732,0.0,0.89,0.11
+nytimes,The New York Times,Mon Nov 23 15:45:02 +0000 2020,0,"RT @NYTnickc: The Georgia senate race: already $234 million, per @ad_impact. That's more than the entire primary+general combined. 
+
+Purdue…",0.0,0.0,1.0,0.0
+nytimes,The New York Times,Mon Nov 23 15:30:10 +0000 2020,238,A coronavirus vaccine could be approved as soon as December. The head of the Trump administration’s Operation Warp… https://t.co/AAGZ3pp9Ie,0.4215,0.135,0.865,0.0
+nytimes,The New York Times,Mon Nov 23 15:15:08 +0000 2020,336,"For many South Korean adoptees, returning to their birth country has become a rite of passage — canceled indefinite… https://t.co/beBXnpLLfs",0.0,0.0,1.0,0.0
+nytimes,The New York Times,Mon Nov 23 15:00:07 +0000 2020,320,"Sen. Kelly Loeffler of Georgia, a Republican who is campaigning in a runoff election that could determine control o… https://t.co/mZ6K2VO2QC",0.0,0.0,1.0,0.0
+nytimes,The New York Times,Mon Nov 23 14:45:07 +0000 2020,80,"Lire en français: Après une nouvelle vague d'attaques en France, l'arrestation d'enfants accusés d'""apologie du ter… https://t.co/HSQMhtTl2Z",-0.1027,0.0,0.92,0.08
+nytimes,The New York Times,Mon Nov 23 14:44:05 +0000 2020,355,"As France grapples with new Islamist attacks, the arrest of children as young as 10 on charges of ""defending terror… https://t.co/nfYoWvAReT",-0.7506,0.0,0.709,0.291
+nytimes,The New York Times,Mon Nov 23 14:30:11 +0000 2020,344,"Thanks to a baseless push by President Trump and other Republicans to overturn the election results, the Michigan B… https://t.co/6NdrRHeLSh",0.4404,0.132,0.868,0.0
