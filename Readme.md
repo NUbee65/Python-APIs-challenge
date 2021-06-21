@@ -6,9 +6,7 @@ Although it seems intuitive that on average temperature should increase as one
 approaches the equator – after all, there’s a reason for the name The Tropics --
 this project provides solid evidence of exactly that.
 
-![](media/125141cbaacaae806b0a32292eae65dd.png)
-
-**Methodology**
+![](media/125141cbaacaae806b0a32292eae65dd.png)**Methodology**
 
 For this project, we examined the weather of 500+ randomly selected cities
 across the world of varying distance from the equator. We focused on four
@@ -23,27 +21,26 @@ for time of day and time of year.
 
 **Observations**
 
-1.  **![](media/143452af58509ad135395e53956f77bc.png)![](media/837a1de4d5923a1f1ef29b01691faefa.png)**This
-    exercise provides visual and quantitative evidence that the earth tends to
-    get hotter toward the equator. The scatter plots for City Latitude vs.
-    Temperature (2020-11-20), and for same variables by just Northern Hemisphere
-    and then by just Southern Hemisphere, provide reasonable evidence that
-    temperature and certain other weather conditions change with distance from
-    the equator. We note that the best time of the year to measure the
-    temperature differential by latitude would be on the Spring or Fall Equinox,
-    when the Sun is exactly above the Equator and day and night are of equal
-    length in Northern and Southern Hemispheres. However, we didn't have the
-    luxury of being able to gather temperatures on those dates or to take
-    multiple weather readings around the world over a year long period, which
-    would have given us another method of capturing information that could
-    cancel out effects of the earth's axis running at a 22 degree angle to the
-    solar ecliptic. That said, with the understanding that it is now two months
-    since the Fall Equinox, what we find is that in the Northern Hemisphere,
-    currently in the Fall season, the scatter plot shows a relatively tight
-    concentration of temperature-latitude data points that describe temperatures
-    falling as latitudes increase from the equator toward the poles (north pole
-    in this case). The Southern Hemisphere temperature-latitude data points also
-    describe a **![](media/5b14ffc878beea236d33410d6b52fcf6.png)**falling off as
+1.  ![](media/81f72f26c696dbfe89936b91877a8afd.png)This exercise provides visual
+    and quantitative evidence that the earth tends to get hotter toward the
+    equator. The scatter plots for City Latitude vs. Temperature (2020-11-20),
+    and for same variables by just Northern Hemisphere and then by just Southern
+    Hemisphere, provide reasonable evidence that temperature and certain other
+    weather conditions change with distance from the equator. We note that the
+    best time of the year to measure the temperature differential by latitude
+    would be on the Spring or Fall Equinox, when the Sun is exactly above the
+    Equator and day and night are of equal length in Northern and Southern
+    Hemispheres. However, we didn't have the luxury of being able to gather
+    temperatures on those dates or to take multiple weather readings around the
+    world over a year long period, which would have given us another method of
+    capturing information that could cancel out effects of the earth's axis
+    running at a 22 degree angle to the solar ecliptic. That said, with the
+    understanding that it is now two months since the Fall Equinox, what we find
+    is that in the Northern Hemisphere, currently in the Fall season, the
+    scatter plot shows a relatively tight concentration of temperature-latitude
+    data points that describe temperatures falling as latitudes increase from
+    the equator toward the poles (north pole in this case). The Southern
+    Hemisphere temperature-latitude data points also describe a falling off as
     latitudes increase from the equator toward the poles (south pole in this
     case). But the Southern Hemisphere's rate of falling off is both not as
     great and seems less tightly concentrated as that for the Northern
@@ -85,17 +82,16 @@ for time of day and time of year.
     any measurements above 100%, which would have called into question their
     veracity.
 
-3.  The scatter plots City Latitude vs. Cloudiness (2020-11-20) by total earth
-    and then for each hemisphere separately seemed less conclusive. There were
-    also patterns in the data that
-    ![](media/49444d90787b7e5f18d0fe63303202e0.png) seem to be methodology
-    driven. Concentrations at 100%, 75%, 40%, 20%, and 0% suggest that cloud
-    cover readings may be human eyeballed rather than measured by radar or some
-    other optical measurement, in that these seem to reflect quantified
-    translations of the way that cloud cover is typically reported: cloudy,
-    clear, partly cloudy, etc.
+1.  ![](media/49444d90787b7e5f18d0fe63303202e0.png)The scatter plots City
+    Latitude vs. Cloudiness (2020-11-20) by total earth and then for each
+    hemisphere separately seemed less conclusive. There were also patterns in
+    the data that seem to be methodology driven. Concentrations at 100%, 75%,
+    40%, 20%, and 0% suggest that cloud cover readings may be human eyeballed
+    rather than measured by radar or some other optical measurement, in that
+    these seem to reflect quantified translations of the way that cloud cover is
+    typically reported: cloudy, clear, partly cloudy, etc.
 
-4.  ![](media/a485f11bfa3ae4d4d9fa053a61e1705b.png)The exercise also had us run
+1.  ![](media/a485f11bfa3ae4d4d9fa053a61e1705b.png)The exercise also had us run
     plots and calculate regression lines for wind speed. These include the
     scatter plots City Latitude vs. Wind Speed (2020-11-20) by total earth and
     then for each hemisphere separately. The regression lines suggest a gradual,
@@ -117,7 +113,7 @@ for time of day and time of year.
     quite a bit more, with correspondingly significant disruption to average
     wind speed.
 
-5.  ![](media/e0e9c7d65ce4f00053652277bbb9a3b9.png)Since 71% (we used 2/3 as the
+2.  ![](media/e0e9c7d65ce4f00053652277bbb9a3b9.png)Since 71% (we used 2/3 as the
     approximation in the Jupyter Notebook) of the surface area of the globe is
     water, there is a likelihood that 71% of the choices made by randomly
     selecting geocoordinates will be somewhere other than on land, which means
